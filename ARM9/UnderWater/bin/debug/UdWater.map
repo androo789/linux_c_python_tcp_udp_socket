@@ -1,0 +1,2253 @@
+Archive member included because of file (symbol)
+
+/mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/dsp/DecFsk/lib/IDecFsk.a_debug(DecFsk.o)
+                              bin/debug/obj/DecFsk.ov5T (DECFSK_create)
+/mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/common/sout/lib/Isout.a_debug(sout.o)
+                              bin/debug/obj/DecFsk.ov5T (SOUT_create)
+/opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/./libc_nonshared.a(elf-init.oS)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crt1.o (__libc_csu_fini)
+/mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(AlgStub.o)
+                              /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/dsp/DecFsk/lib/IDecFsk.a_debug(DecFsk.o) (CODECS_getParamPtr)
+/mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(BurchFw.o)
+                              /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(AlgStub.o) (BurchFw_setup)
+/mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_debug(BUFQue.o)
+                              bin/debug/obj/TerminalIntr.ov5T (BufQue_create)
+/mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_debug(Mailbox.o)
+                              bin/debug/obj/main.ov5T (MBX_create)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o)
+                              /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(BurchFw.o) (SharedRegion_getHeap)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Notify.o)
+                              /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(BurchFw.o) (Notify_sendEvent)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQ.o)
+                              /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(BurchFw.o) (MessageQ_setReplyQueue)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Ipc.o)
+                              /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(BurchFw.o) (Ipc_control)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIO.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Ipc.o) (RingIO_destroy)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShm.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Ipc.o) (RingIOShm_destroy)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Ipc.o) (FrameQ_destroy)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgr.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ.o) (FrameQBufMgr_getHandle)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgr.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIO.o) (ClientNotifyMgr_sendForceNotificationMulti)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMP.o)
+                              /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(BurchFw.o) (HeapMemMP_Params_init)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMP.o)
+                              /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(BurchFw.o) (HeapBufMP_Params_init)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMP.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIO.o) (GateMP_getKnlHandle)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegionDrv.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o) (SharedRegionDrv_ioctl)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NotifyDrvUsr.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Notify.o) (NotifyDrvUsr_ioctl)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMPDrv.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMP.o) (HeapBufMPDrv_ioctl)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQDrv.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQ.o) (MessageQDrv_ioctl)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(IpcDrv.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Ipc.o) (IpcDrv_ioctl)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQDrv.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ.o) (FrameQDrv_ioctl)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgrDrv.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgr.o) (FrameQBufMgrDrv_ioctl)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgrDrv.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgr.o) (ClientNotifyMgrDrv_ioctl)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIODrv.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIO.o) (RingIODrv_ioctl)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShmDrv.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShm.o) (RingIOShmDrv_ioctl)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMPDrv.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMP.o) (HeapMemMPDrv_ioctl)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMPDrv.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMP.o) (GateMPDrv_ioctl)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalProcess.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Ipc.o) (OsalProcess_getPid)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMutex.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o) (GateMutex_create)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Memory.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o) (Memory_getMaxDefaultTypeAlign)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(List.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ.o) (List_construct)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(String.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o) (String_cmp)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServer.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ.o) (NameServer_get)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProc.o)
+                              /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(BurchFw.o) (MultiProc_getName)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Gate.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ.o) (Gate_leaveSystem)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SysLink.o)
+                              /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(AlgStub.o) (SysLink_setup)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Cache.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgr.o) (Cache_wbInv)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServerDrv.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServer.o) (NameServerDrv_ioctl)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProcDrv.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProc.o) (MultiProcDrv_ioctl)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(CacheDrv.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Cache.o) (CacheDrv_ioctl)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Dev.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegionDrv.o) (Dev_pollOpen)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MemoryOS.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Memory.o) (MemoryOS_free)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalDrv.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(CacheDrv.o) (OsalDrv_ioctl)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalMutex.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMutex.o) (OsalMutex_leave)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgr.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Ipc.o) (ProcMgr_setup)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgrDrvUsr.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgr.o) (ProcMgrDrvUsr_close)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ_common.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ.o) (FrameQ_isSupportedInterface)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMP.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Ipc.o) (ListMP_destroy)
+/opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMPDrv.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMP.o) (ListMPDrv_ioctl)
+/opt/OMAPL138/MCSDK_1_01_00_02/linuxutils_2_26_02_05/packages/ti/sdo/linuxutils/cmem/lib/cmem.a470MV(cmem.o470MV)
+                              bin/debug/obj/DecFsk.ov5T (CMEM_cacheInv)
+/opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_udivsi3.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalDrv.o) (__aeabi_uidivmod)
+/opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_divsi3.o)
+                              bin/debug/obj/EncFsk.ov5T (__aeabi_idiv)
+/opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_addsubsf3.o)
+                              bin/debug/obj/TerminalIntr.ov5T (__aeabi_i2f)
+/opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_muldivsf3.o)
+                              bin/debug/obj/TerminalIntr.ov5T (__aeabi_fmul)
+/opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_fixsfsi.o)
+                              bin/debug/obj/TerminalIntr.ov5T (__aeabi_f2iz)
+/opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_dvmd_lnx.o)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_udivsi3.o) (__div0)
+
+Allocating common symbols
+Common symbol       size              file
+
+NameServer_Object   0x4               /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServer.o)
+
+Discarded input sections
+
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crt1.o
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtbegin.o
+ .note.GNU-stack
+                0x00000000        0x0 bin/debug/obj/main.ov5T
+ .note.GNU-stack
+                0x00000000        0x0 bin/debug/obj/DecFsk.ov5T
+ .note.GNU-stack
+                0x00000000        0x0 bin/debug/obj/EncFsk.ov5T
+ .note.GNU-stack
+                0x00000000        0x0 bin/debug/obj/EncFskDemo.ov5T
+ .note.GNU-stack
+                0x00000000        0x0 bin/debug/obj/DecFskDemo.ov5T
+ .note.GNU-stack
+                0x00000000        0x0 bin/debug/obj/TerminalIntr.ov5T
+ .note.GNU-stack
+                0x00000000        0x0 bin/debug/obj/crc32.ov5T
+ .note.GNU-stack
+                0x00000000        0x0 bin/debug/obj/u_boot_env.ov5T
+ .note.GNU-stack
+                0x00000000        0x0 /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/dsp/DecFsk/lib/IDecFsk.a_debug(DecFsk.o)
+ .note.GNU-stack
+                0x00000000        0x0 /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/common/sout/lib/Isout.a_debug(sout.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/./libc_nonshared.a(elf-init.oS)
+ .note.GNU-stack
+                0x00000000        0x0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(AlgStub.o)
+ .note.GNU-stack
+                0x00000000        0x0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(BurchFw.o)
+ .note.GNU-stack
+                0x00000000        0x0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_debug(BUFQue.o)
+ .note.GNU-stack
+                0x00000000        0x0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_debug(Mailbox.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Notify.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQ.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Ipc.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIO.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShm.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgr.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgr.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMP.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMP.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMP.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegionDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NotifyDrvUsr.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMPDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(IpcDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgrDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgrDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIODrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShmDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMPDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMPDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalProcess.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMutex.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Memory.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(List.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(String.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServer.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProc.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Gate.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SysLink.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Cache.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServerDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProcDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(CacheDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Dev.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MemoryOS.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalMutex.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgr.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgrDrvUsr.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ_common.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMP.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMPDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linuxutils_2_26_02_05/packages/ti/sdo/linuxutils/cmem/lib/cmem.a470MV(cmem.o470MV)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_udivsi3.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_divsi3.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_addsubsf3.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_muldivsf3.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_fixsfsi.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_dvmd_lnx.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtend.o
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crt1.o
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtbegin.o
+LOAD bin/debug/obj/main.ov5T
+LOAD bin/debug/obj/DecFsk.ov5T
+LOAD bin/debug/obj/EncFsk.ov5T
+LOAD bin/debug/obj/EncFskDemo.ov5T
+LOAD bin/debug/obj/DecFskDemo.ov5T
+LOAD bin/debug/obj/TerminalIntr.ov5T
+LOAD bin/debug/obj/crc32.ov5T
+LOAD bin/debug/obj/u_boot_env.ov5T
+LOAD /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/dsp/DecFsk/lib/IDecFsk.a_debug
+LOAD /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/dsp/EncFsk/lib/IEncFsk.a_debug
+LOAD /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/common/sout/lib/Isout.a_debug
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/libpthread.so
+START GROUP
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/libpthread.so.0
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/./libpthread_nonshared.a
+END GROUP
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/libc.so
+START GROUP
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/libc.so.6
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/./libc_nonshared.a
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/ld-linux.so.3
+END GROUP
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/librt.so
+LOAD /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug
+LOAD /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_debug
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linuxutils_2_26_02_05/packages/ti/sdo/linuxutils/cmem/lib/cmem.a470MV
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/libm.so
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/../../../../arm-arago-linux-gnueabi/lib/libgcc_s.so
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/libc.so
+START GROUP
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/libc.so.6
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/./libc_nonshared.a
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/ld-linux.so.3
+END GROUP
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/../../../../arm-arago-linux-gnueabi/lib/libgcc_s.so
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtend.o
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crtn.o
+                0x00008000                PROVIDE (__executable_start, 0x8000)
+                0x00008134                . = (0x8000 + SIZEOF_HEADERS)
+
+.interp         0x00008134       0x13
+ *(.interp)
+ .interp        0x00008134       0x13 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+
+.note.ABI-tag   0x00008148       0x20
+ .note.ABI-tag  0x00008148       0x20 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crt1.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash           0x00008168      0x23c
+ *(.hash)
+ .hash          0x00008168      0x23c /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym         0x000083a4      0x4a0
+ *(.dynsym)
+ .dynsym        0x000083a4      0x4a0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+
+.dynstr         0x00008844      0x2f0
+ *(.dynstr)
+ .dynstr        0x00008844      0x2f0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+
+.gnu.version    0x00008b34       0x94
+ *(.gnu.version)
+ .gnu.version   0x00008b34       0x94 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+
+.gnu.version_d  0x00008bc8        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+
+.gnu.version_r  0x00008bc8       0x40
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00008bc8       0x40 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+
+.rel.dyn        0x00008c08       0x28
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rel.data.rel.ro* .rel.gnu.linkonce.d.rel.ro.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ .rel.got       0x00008c08       0x20 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ .rel.bss       0x00008c28        0x8 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+
+.rela.dyn
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+
+.rel.plt        0x00008c30      0x220
+ *(.rel.plt)
+ .rel.plt       0x00008c30      0x220 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+
+.rela.plt
+ *(.rela.plt)
+
+.init           0x00008e50       0x14
+ *(.init)
+ .init          0x00008e50        0xc /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+                0x00008e50                _init
+ .init          0x00008e5c        0x8 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crtn.o
+
+.plt            0x00008e64      0x344
+ *(.plt)
+ .plt           0x00008e64      0x344 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+                0x00008e78                open@@GLIBC_2.4
+                0x00008e84                strerror@@GLIBC_2.4
+                0x00008e90                mmap@@GLIBC_2.4
+                0x00008e9c                abort@@GLIBC_2.4
+                0x00008ea8                connect@@GLIBC_2.4
+                0x00008eb4                pthread_exit@@GLIBC_2.4
+                0x00008ec0                __libc_start_main@@GLIBC_2.4
+                0x00008ecc                inet_ntoa@@GLIBC_2.4
+                0x00008ee4                inet_addr@@GLIBC_2.4
+                0x00008ef0                strncpy@@GLIBC_2.4
+                0x00008efc                recv@@GLIBC_2.4
+                0x00008f08                getenv@@GLIBC_2.4
+                0x00008f14                system@@GLIBC_2.4
+                0x00008f20                strchr@@GLIBC_2.4
+                0x00008f2c                pthread_cond_wait@@GLIBC_2.4
+                0x00008f38                sendto@@GLIBC_2.4
+                0x00008f44                htons@@GLIBC_2.4
+                0x00008f50                fopen@@GLIBC_2.4
+                0x00008f5c                memset@@GLIBC_2.4
+                0x00008f68                pthread_cond_timedwait@@GLIBC_2.4
+                0x00008f74                perror@@GLIBC_2.4
+                0x00008f80                free@@GLIBC_2.4
+                0x00008f8c                read@@GLIBC_2.4
+                0x00008f98                write@@GLIBC_2.4
+                0x00008fa4                scanf@@GLIBC_2.4
+                0x00008fb0                gettimeofday@@GLIBC_2.4
+                0x00008fbc                fseek@@GLIBC_2.4
+                0x00008fc8                pthread_mutex_unlock@@GLIBC_2.4
+                0x00008fd4                socket@@GLIBC_2.4
+                0x00008fe0                ioctl@@GLIBC_2.4
+                0x00008fec                pthread_mutex_lock@@GLIBC_2.4
+                0x00008ff8                strlen@@GLIBC_2.4
+                0x00009004                pthread_create@@GLIBC_2.4
+                0x00009010                memcpy@@GLIBC_2.4
+                0x0000901c                pthread_cond_signal@@GLIBC_2.4
+                0x00009028                strcpy@@GLIBC_2.4
+                0x00009034                pthread_cond_destroy@@GLIBC_2.4
+                0x00009040                pthread_sigmask@@GLIBC_2.4
+                0x0000904c                pthread_mutex_destroy@@GLIBC_2.4
+                0x00009058                printf@@GLIBC_2.4
+                0x00009064                raise@@GLIBC_2.4
+                0x00009070                atoi@@GLIBC_2.4
+                0x0000907c                pthread_mutex_init@@GLIBC_2.4
+                0x00009088                bind@@GLIBC_2.4
+                0x00009094                strstr@@GLIBC_2.4
+                0x000090a0                close@@GLIBC_2.4
+                0x000090ac                fwrite@@GLIBC_2.4
+                0x000090b8                fprintf@@GLIBC_2.4
+                0x000090c4                malloc@@GLIBC_2.4
+                0x000090d0                sleep@@GLIBC_2.4
+                0x000090dc                send@@GLIBC_2.4
+                0x000090e8                sigfillset@@GLIBC_2.4
+                0x000090f4                puts@@GLIBC_2.4
+                0x00009100                getpid@@GLIBC_2.4
+                0x0000910c                fcntl@@GLIBC_2.4
+                0x00009118                bzero@@GLIBC_2.4
+                0x00009124                munmap@@GLIBC_2.4
+                0x00009130                fread@@GLIBC_2.4
+                0x0000913c                pthread_cond_init@@GLIBC_2.4
+                0x00009148                nanosleep@@GLIBC_2.4
+                0x00009154                recvfrom@@GLIBC_2.4
+                0x00009160                setsockopt@@GLIBC_2.4
+                0x0000916c                __errno_location@@GLIBC_2.4
+                0x00009178                pthread_self@@GLIBC_2.4
+                0x00009184                sprintf@@GLIBC_2.4
+                0x00009190                pthread_join@@GLIBC_2.4
+                0x0000919c                getpagesize@@GLIBC_2.4
+
+.text           0x000091a8    0x17c80
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x000091a8       0x38 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crt1.o
+                0x000091a8                _start
+ .text          0x000091e0       0x24 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+ .text          0x00009204       0x58 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtbegin.o
+ .text          0x0000925c      0x264 bin/debug/obj/main.ov5T
+                0x000092d8                main
+ .text          0x000094c0      0x604 bin/debug/obj/DecFsk.ov5T
+                0x00009700                DECFsk_init
+ .text          0x00009ac4      0x8bc bin/debug/obj/EncFsk.ov5T
+                0x0000a1b4                SendUserValue
+                0x0000a0c8                ENCFsk_test
+                0x0000a058                SetScaler
+                0x00009fd4                GetScaler
+                0x00009c00                ENCFsk_init
+ .text          0x0000a380      0x6c4 bin/debug/obj/EncFskDemo.ov5T
+                0x0000a9f8                EncFskDemo
+ .text          0x0000aa44      0x87c bin/debug/obj/DecFskDemo.ov5T
+                0x0000b0c4                DecFskDemo
+ .text          0x0000b2c0     0x1574 bin/debug/obj/TerminalIntr.ov5T
+                0x0000c1c8                UploadDispVal
+                0x0000bb70                get_netlink_status
+                0x0000c758                TerminalIntr_init
+                0x0000bab0                UpdSndData
+ .text          0x0000c834      0x758 bin/debug/obj/crc32.ov5T
+                0x0000cf40                uboot_crc32
+ .text          0x0000cf8c      0x958 bin/debug/obj/u_boot_env.ov5T
+                0x0000d0c8                UBOOTEnv_init
+                0x0000d694                UBOOTEnv_get
+                0x0000cf8c                GetKeySect
+                0x0000d238                UBOOTEnv_set
+                0x0000d13c                UBOOTEnv_save
+ .text          0x0000d8e4      0x2e4 /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/dsp/DecFsk/lib/IDecFsk.a_debug(DecFsk.o)
+                0x0000db7c                DECFSK_delete
+                0x0000da80                DECFSK_create
+ .text          0x0000dbc8      0x27c /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/common/sout/lib/Isout.a_debug(sout.o)
+                0x0000dd00                SOUT_create
+                0x0000ddf8                SOUT_delete
+ .text          0x0000de44       0x78 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/./libc_nonshared.a(elf-init.oS)
+                0x0000de44                __libc_csu_fini
+                0x0000de48                __libc_csu_init
+ .text          0x0000debc      0xab8 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(AlgStub.o)
+                0x0000e7d0                CODECS_rpeDebug
+                0x0000e8e0                CODECS_nodeLink
+                0x0000e5d0                CODECS_create
+                0x0000e788                CODECS_delete
+                0x0000e308                CODECS_call
+                0x0000e24c                CODECS_install
+                0x0000e430                CODECS_trigger
+                0x0000e530                CODECS_wait
+                0x0000e948                CODECS_getParamPtr
+ .text          0x0000e974      0xa20 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(BurchFw.o)
+                0x0000ebf4                BurchFw_setup
+                0x0000f2d0                BurchFw_put
+                0x0000f34c                BurchFw_msgAlloc
+ .text          0x0000f394      0x244 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_debug(BUFQue.o)
+                0x0000f468                BufQue_getFree
+                0x0000f394                BufQue_create
+                0x0000f58c                BufQue_putReady
+                0x0000f4d4                BufQue_putFree
+                0x0000f520                BufQue_getReady
+ .text          0x0000f5d8      0x71c /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_debug(Mailbox.o)
+                0x0000fb9c                MBX_post
+                0x0000f5d8                MBX_create
+                0x0000fc48                MBX_pend
+                0x0000f7a4                MBX_delete
+ .text          0x0000fcf4      0xf64 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o)
+                0x0000fd4c                SharedRegion_getPtr
+                0x00010824                SharedRegion_setup
+                0x0000fef0                SharedRegion_isCacheEnabled
+                0x00010270                SharedRegion_getRegionInfo
+                0x0000ff60                SharedRegion_getNumRegions
+                0x000102d0                SharedRegion_getEntry
+                0x0000fdcc                SharedRegion_getSRPtr
+                0x000100b8                SharedRegion_clearEntry
+                0x000106dc                SharedRegion_getConfig
+                0x00010200                SharedRegion_stop
+                0x00010718                SharedRegion_destroy
+                0x00010340                _SharedRegion_setRegions
+                0x00010b54                SharedRegion_getIdByName
+                0x000104c0                SharedRegion_reserveMemory
+                0x00010590                SharedRegion_getHeap
+                0x0000ffc0                SharedRegion_invalidSRPtr
+                0x00010238                SharedRegion_start
+                0x000101c4                SharedRegion_attach
+                0x00010a60                SharedRegion_getId
+                0x00010188                SharedRegion_detach
+                0x0000fe90                SharedRegion_getCacheLineSize
+                0x0001060c                SharedRegion_setEntry
+                0x0000ff50                SharedRegion_translateEnabled
+                0x0000ffc8                _SharedRegion_clearRegions
+                0x0000ff70                SharedRegion_entryInit
+ .text          0x00010c58      0x7e4 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Notify.o)
+                0x000113e4                Notify_getConfig
+                0x000111e4                Notify_registerEventSingle
+                0x00010d70                Notify_restore
+                0x00010e20                Notify_sendEvent
+                0x00010ce4                Notify_disableEvent
+                0x00010ecc                Notify_intLineRegistered
+                0x000112a0                Notify_sharedMemReq
+                0x00010fd0                Notify_unregisterEvent
+                0x00011368                Notify_setup
+                0x00011084                Notify_unregisterEventSingle
+                0x00010f28                Notify_eventAvailable
+                0x00011314                Notify_destroy
+                0x00010fa8                Notify_detach
+                0x000112dc                Notify_attach
+                0x00011128                Notify_registerEvent
+                0x00010dc4                Notify_disable
+                0x00010c58                Notify_enableEvent
+ .text          0x0001143c      0x86c /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQ.o)
+                0x0001161c                MessageQ_close
+                0x0001143c                MessageQ_setReplyQueue
+                0x00011998                MessageQ_staticMsgInit
+                0x0001145c                MessageQ_getQueueId
+                0x00011488                MessageQ_detach
+                0x00011470                MessageQ_setMsgTrace
+                0x00011514                MessageQ_unregisterHeap
+                0x00011c64                MessageQ_getConfig
+                0x000118ec                MessageQ_get
+                0x00011784                MessageQ_free
+                0x00011c04                MessageQ_setup
+                0x000119ec                MessageQ_open
+                0x00011800                MessageQ_put
+                0x00011884                MessageQ_alloc
+                0x00011b0c                MessageQ_create
+                0x00011684                MessageQ_Params_init
+                0x000114c8                MessageQ_unblock
+                0x000115c0                MessageQ_count
+                0x00011bb4                MessageQ_destroy
+                0x00011a7c                MessageQ_delete
+                0x000116c8                MessageQ_attach
+                0x00011558                MessageQ_registerHeap
+                0x00011720                MessageQ_sharedMemReq
+ .text          0x00011ca8      0x7b8 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Ipc.o)
+                0x00011ce4                Ipc_writeConfig
+                0x00011ca8                Ipc_runtimeId
+                0x0001230c                Ipc_control
+                0x00011fd8                Ipc_isAttached
+                0x00011d4c                Ipc_destroy
+                0x000120e0                Ipc_setup
+                0x0001202c                Ipc_getConfig
+                0x00011d18                Ipc_readConfig
+ .text          0x00012460     0x109c /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIO.o)
+                0x00012a88                RingIO_unregisterNotifier
+                0x00013060                RingIO_destroy
+                0x00012bb8                RingIO_close
+                0x000130b0                RingIO_getConfig
+                0x000124c0                RingIO_flush
+                0x00013170                RingIO_setAttribute
+                0x000128dc                RingIO_getValidSize
+                0x000129c4                RingIO_sendNotify
+                0x00012460                RingIO_sharedMemReq
+                0x00012c88                RingIO_delete
+                0x00012d44                RingIO_openByAddr
+                0x000126cc                RingIO_getWaterMark
+                0x0001297c                RingIO_Params_init
+                0x000127d4                RingIO_getEmptyAttrSize
+                0x0001263c                RingIO_release
+                0x0001277c                RingIO_getAcquiredOffset
+                0x00012af8                RingIO_registerNotifier
+                0x00012934                RingIO_setNotifyType
+                0x00012ee8                RingIO_open
+                0x00012590                RingIO_getvAttribute
+                0x00012a00                RingIO_acquire
+                0x00012884                RingIO_getEmptySize
+                0x00012684                RingIO_setWaterMark
+                0x000125f4                RingIO_cancel
+                0x000131dc                RingIO_getAttribute
+                0x0001323c                RingIO_create
+                0x0001282c                RingIO_getValidAttrSize
+                0x000130f4                RingIO_setup
+                0x00012524                RingIO_setvAttribute
+                0x00012724                RingIO_getAcquiredSize
+ .text          0x000134fc      0x158 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShm.o)
+                0x000135d8                RingIOShm_setup
+                0x000134fc                RingIOShm_Params_init
+                0x00013544                RingIOShm_destroy
+                0x00013594                RingIOShm_getConfig
+ .text          0x00013654     0x1764 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ.o)
+                0x000140c8                FrameQ_freev
+                0x00013988                FrameQ_sendNotify
+                0x00014154                FrameQ_free
+                0x000142b4                FrameQ_close
+                0x00013f4c                FrameQ_getv
+                0x00013b48                FrameQ_registerNotifier
+                0x0001450c                FrameQ_open
+                0x000141b0                FrameQ_allocv
+                0x00013a74                FrameQ_unregisterNotifier
+                0x000148b0                FrameQ_create
+                0x0001424c                FrameQ_alloc
+                0x000136fc                FrameQ_ShMem_Params_init
+                0x0001379c                FrameQ_getvNumFreeFrames
+                0x00013750                FrameQ_control
+                0x000139f8                FrameQ_dup
+                0x00013654                FrameQ_ShMem_sharedMemReq
+                0x00013888                FrameQ_getvNumFrames
+                0x000136ac                FrameQ_Params_init
+                0x00013e7c                FrameQ_put
+                0x00014cb4                FrameQ_getConfig
+                0x00013830                FrameQ_getNumFreeFrames
+                0x00013c78                FrameQ_get
+                0x00014c28                FrameQ_destroy
+                0x0001391c                FrameQ_getNumFrames
+                0x00014cf8                FrameQ_setup
+                0x000143d4                FrameQ_delete
+                0x00013d60                FrameQ_putv
+ .text          0x00014db8     0x1744 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgr.o)
+                0x00014df0                FrameQBufMgr_getKnlHandle
+                0x00015aec                FrameQBufMgr_freev
+                0x00014db8                FrameQBufMgr_add
+                0x00016028                FrameQBufMgr_close
+                0x000156e4                FrameQBufMgr_writeBackFrameBuf
+                0x00014de8                FrameQBufMgr_getId
+                0x00015034                FrameQBufMgr_translateAddr
+                0x00015f24                FrameQBufMgr_delete
+                0x00014ed4                FrameQBufMgr_getvNumFreeFrames
+                0x000159b8                FrameQBufMgr_dupv
+                0x00014e14                FrameQBufMgr_isSupportedBufInterface
+                0x00015298                FrameQBufMgr_allocv
+                0x0001634c                FrameQBufMgr_destroy
+                0x000163e8                FrameQBufMgr_getConfig
+                0x000151ec                FrameQBufMgr_free
+                0x00015498                FrameQBufMgr_invalidate
+                0x00014fc0                FrameQBufMgr_getHandle
+                0x00014f6c                FrameQBufMgr_getNumFreeFrames
+                0x00015614                FrameQBufMgr_writeBack
+                0x00014e08                FrameQBufMgr_isSupportedInterface
+                0x00014e84                FrameQBufMgr_ShMem_Params_init
+                0x00016064                FrameQBufMgr_create
+                0x000157fc                FrameQBufMgr_writeBackHeaderBuf
+                0x00014dfc                FrameQBufMgr_getBaseHeaderSize
+                0x00015100                FrameQBufMgr_dup
+                0x000153d4                FrameQBufMgr_alloc
+                0x000158f4                FrameQBufMgr_registerNotifier
+                0x00015580                FrameQBufMgr_invalidateFrameBuf
+                0x00016438                FrameQBufMgr_setup
+                0x00014dc0                FrameQBufMgr_remove
+                0x00014e30                FrameQBufMgr_Params_init
+                0x00015864                FrameQBufMgr_unregisterNotifier
+                0x00015778                FrameQBufMgr_invalidateHeaderBuf
+                0x00015c0c                FrameQBufMgr_open
+ .text          0x000164fc     0x1ce4 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgr.o)
+                0x00016e60                ClientNotifyMgr_sendNotification
+                0x00016698                ClientNotifyMgr_sendForceNotificationMulti
+                0x000177c8                ClientNotifyMgr_close
+                0x00016504                ClientNotifyMgr_disableNotification
+                0x000177d4                ClientNotifyMgr_sharedMemReq
+                0x00017d60                ClientNotifyMgr_create
+                0x0001783c                ClientNotifyMgr_destroy
+                0x00017a34                ClientNotifyMgr_callBack
+                0x0001790c                ClientNotifyMgr_setup
+                0x000164fc                ClientNotifyMgr_sharedMemModReq
+                0x00016904                ClientNotifyMgr_sendNotificationMulti
+                0x00017120                ClientNotifyMgr_unregisterClient
+                0x000178c8                ClientNotifyMgr_getConfig
+                0x000165cc                ClientNotifyMgr_enableNotification
+                0x00016c68                ClientNotifyMgr_sendForceNotification
+                0x00017570                ClientNotifyMgr_Params_init
+                0x000175b4                ClientNotifyMgr_delete
+                0x00017310                ClientNotifyMgr_registerClient
+                0x0001817c                ClientNotifyMgr_open
+ .text          0x000181e0      0x914 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMP.o)
+                0x00018864                HeapMemMP_getConfig
+                0x000182e8                HeapMemMP_getStats
+                0x00018990                HeapMemMP_create
+                0x00018290                HeapMemMP_getExtendedStats
+                0x00018380                _HeapMemMP_create
+                0x000181e0                HeapMemMP_getKnlHandle
+                0x00018808                HeapMemMP_setup
+                0x000187b8                HeapMemMP_destroy
+                0x00018340                HeapMemMP_Params_init
+                0x000188a0                HeapMemMP_getUsrHandle
+                0x00018444                HeapMemMP_close
+                0x0001823c                HeapMemMP_sharedMemReq
+                0x00018210                HeapMemMP_restore
+                0x000184e4                HeapMemMP_delete
+                0x00018584                HeapMemMP_free
+                0x000186a0                HeapMemMP_alloc
+                0x00018600                HeapMemMP_openByAddr
+                0x0001871c                HeapMemMP_open
+ .text          0x00018af4      0x828 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMP.o)
+                0x000191c0                HeapBufMP_create
+                0x00018d08                HeapBufMP_close
+                0x00018f14                HeapBufMP_openByAddr
+                0x00018c00                HeapBufMP_sharedMemReq
+                0x00018af4                HeapBufMP_isBlocking
+                0x00018cb0                HeapBufMP_getStats
+                0x000190cc                HeapBufMP_destroy
+                0x0001911c                HeapBufMP_setup
+                0x00018b38                _HeapBufMP_create
+                0x00018fb4                HeapBufMP_alloc
+                0x0001917c                HeapBufMP_getConfig
+                0x00018e50                HeapBufMP_Params_init
+                0x00018dac                HeapBufMP_delete
+                0x00018b08                HeapBufMP_getKnlHandle
+                0x00018e98                HeapBufMP_free
+                0x00019030                HeapBufMP_open
+                0x00018c58                HeapBufMP_getExtendedStats
+ .text          0x0001931c      0xae8 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMP.o)
+                0x00019b08                GateMP_getConfig
+                0x000193e0                GateMP_getDefaultRemote
+                0x000194bc                GateMP_enter
+                0x0001952c                GateMP_Instance_finalize
+                0x00019a3c                GateMP_setup
+                0x00019b58                GateMP_delete
+                0x000196cc                GateMP_openByAddr
+                0x00019918                GateMP_Instance_init
+                0x000193a8                GateMP_getSharedAddr
+                0x000195b4                GateMP_close
+                0x00019560                GateMP_Params_init
+                0x000197f4                GateMP_open
+                0x0001931c                GateMP_getLocalProtect
+                0x00019c70                _GateMP_create
+                0x00019420                GateMP_sharedMemReq
+                0x00019454                GateMP_leave
+                0x00019324                GateMP_getRemoteProtect
+                0x00019d74                GateMP_create
+                0x0001932c                GateMP_getKnlHandle
+                0x000199b8                GateMP_destroy
+                0x00019378                GateMP_setReserved
+ .text          0x00019e04      0x298 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegionDrv.o)
+                0x00019e04                SharedRegionDrv_ioctl
+                0x00019fb8                SharedRegionDrv_close
+                0x0001a014                SharedRegionDrv_open
+ .text          0x0001a09c      0x380 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NotifyDrvUsr.o)
+                0x0001a09c                _NotifyDrvUsr_eventWorker
+                0x0001a1dc                NotifyDrvUsr_close
+                0x0001a1a4                NotifyDrvUsr_ioctl
+                0x0001a2a8                NotifyDrvUsr_open
+ .text          0x0001a41c      0x148 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMPDrv.o)
+                0x0001a4b0                HeapBufMPDrv_open
+                0x0001a41c                HeapBufMPDrv_ioctl
+                0x0001a454                HeapBufMPDrv_close
+ .text          0x0001a564      0x150 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQDrv.o)
+                0x0001a564                MessageQDrv_ioctl
+                0x0001a5f8                MessageQDrv_open
+                0x0001a59c                MessageQDrv_close
+ .text          0x0001a6b4      0x13c /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(IpcDrv.o)
+                0x0001a748                IpcDrv_open
+                0x0001a6b4                IpcDrv_ioctl
+                0x0001a6ec                IpcDrv_close
+ .text          0x0001a7f0      0x118 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQDrv.o)
+                0x0001a7f0                FrameQDrv_ioctl
+                0x0001a884                FrameQDrv_open
+                0x0001a828                FrameQDrv_close
+ .text          0x0001a908      0x118 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgrDrv.o)
+                0x0001a99c                FrameQBufMgrDrv_open
+                0x0001a940                FrameQBufMgrDrv_close
+                0x0001a908                FrameQBufMgrDrv_ioctl
+ .text          0x0001aa20      0x118 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgrDrv.o)
+                0x0001aab4                ClientNotifyMgrDrv_open
+                0x0001aa20                ClientNotifyMgrDrv_ioctl
+                0x0001aa58                ClientNotifyMgrDrv_close
+ .text          0x0001ab38      0x118 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIODrv.o)
+                0x0001ab70                RingIODrv_close
+                0x0001ab38                RingIODrv_ioctl
+                0x0001abcc                RingIODrv_open
+ .text          0x0001ac50      0x118 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShmDrv.o)
+                0x0001ac50                RingIOShmDrv_ioctl
+                0x0001ac88                RingIOShmDrv_close
+                0x0001ace4                RingIOShmDrv_open
+ .text          0x0001ad68      0x11c /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMPDrv.o)
+                0x0001ada0                HeapMemMPDrv_close
+                0x0001ad68                HeapMemMPDrv_ioctl
+                0x0001adfc                HeapMemMPDrv_open
+ .text          0x0001ae84      0x11c /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMPDrv.o)
+                0x0001af18                GateMPDrv_open
+                0x0001aebc                GateMPDrv_close
+                0x0001ae84                GateMPDrv_ioctl
+ .text          0x0001afa0       0x30 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalProcess.o)
+                0x0001afa0                OsalProcess_getTid
+                0x0001afb8                OsalProcess_getPid
+ .text          0x0001afd0      0x23c /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMutex.o)
+                0x0001afd0                GateMutex_leave
+                0x0001b134                GateMutex_delete
+                0x0001b078                GateMutex_create
+                0x0001aff0                GateMutex_enter
+                0x0001b03c                GateMutex_Instance_init
+                0x0001b010                GateMutex_Instance_finalize
+ .text          0x0001b20c      0x1a8 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Memory.o)
+                0x0001b270                Memory_getMaxDefaultTypeAlign
+                0x0001b20c                Memory_getStats
+                0x0001b278                Memory_translate
+                0x0001b2d4                Memory_valloc
+                0x0001b35c                Memory_calloc
+                0x0001b290                Memory_alloc
+                0x0001b230                Memory_query
+                0x0001b328                Memory_free
+ .text          0x0001b3b4      0x2dc /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(List.o)
+                0x0001b588                List_get
+                0x0001b3b8                List_construct
+                0x0001b540                List_put
+                0x0001b420                List_insert
+                0x0001b3b4                List_Params_init
+                0x0001b600                List_destruct
+                0x0001b65c                List_create
+                0x0001b628                List_delete
+                0x0001b44c                List_remove
+                0x0001b470                List_dequeue
+                0x0001b5d0                List_empty
+                0x0001b3d8                List_next
+                0x0001b4a8                List_enqueue
+                0x0001b3c8                List_elemClear
+                0x0001b4d0                List_enqueueHead
+                0x0001b3fc                List_prev
+                0x0001b4fc                List_putHead
+ .text          0x0001b690      0x34c /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(String.o)
+                0x0001b950                String_hash
+                0x0001b810                String_cpy
+                0x0001b6c4                String_cmp
+                0x0001b7a8                String_ncmp
+                0x0001b8c0                String_hexToStr
+                0x0001b82c                String_ncpy
+                0x0001b690                String_cat
+                0x0001b88c                String_len
+ .text          0x0001b9dc      0x92c /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServer.o)
+                0x0001c0e0                NameServer_create
+                0x0001bb54                NameServer_match
+                0x0001bbdc                NameServer_getLocal
+                0x0001bf78                NameServer_addUInt32
+                0x0001baa4                NameServer_delete
+                0x0001bee4                NameServer_add
+                0x0001c200                NameServer_destroy
+                0x0001bfc8                NameServer_getHandle
+                0x0001bc90                NameServer_getLocalUInt32
+                0x0001c250                NameServer_setup
+                0x0001bb0c                NameServer_Params_init
+                0x0001ba40                NameServer_removeEntry
+                0x0001c048                NameServer_open
+                0x0001bcf4                NameServer_get
+                0x0001c170                NameServer_close
+                0x0001be70                NameServer_remove
+                0x0001b9dc                NameServer_isRegistered
+                0x0001be00                NameServer_getUInt32
+                0x0001c2a4                NameServer_getConfig
+ .text          0x0001c308      0x370 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProc.o)
+                0x0001c52c                MultiProc_destroy
+                0x0001c358                MultiProc_self
+                0x0001c340                MultiProc_getNumProcessors
+                0x0001c57c                MultiProc_setup
+                0x0001c4ac                MultiProc_setLocalId
+                0x0001c308                MultiProc_getName
+                0x0001c424                MultiProc_getId
+                0x0001c36c                MultiProc_getSlot
+                0x0001c614                MultiProc_getConfig
+ .text          0x0001c678       0x88 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Gate.o)
+                0x0001c678                Gate_leaveSystem
+                0x0001c6b8                Gate_enterSystem
+ .text          0x0001c700       0x48 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SysLink.o)
+                0x0001c700                SysLink_destroy
+                0x0001c71c                SysLink_setup
+ .text          0x0001c748       0xe4 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Cache.o)
+                0x0001c748                Cache_setMode
+                0x0001c778                Cache_wait
+                0x0001c7fc                Cache_inv
+                0x0001c7cc                Cache_wb
+                0x0001c79c                Cache_wbInv
+ .text          0x0001c82c      0x148 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServerDrv.o)
+                0x0001c8c0                NameServerDrv_open
+                0x0001c864                NameServerDrv_close
+                0x0001c82c                NameServerDrv_ioctl
+ .text          0x0001c974      0x118 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProcDrv.o)
+                0x0001c974                MultiProcDrv_ioctl
+                0x0001c9ac                MultiProcDrv_close
+                0x0001ca08                MultiProcDrv_open
+ .text          0x0001ca8c       0x20 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(CacheDrv.o)
+                0x0001ca8c                CacheDrv_ioctl
+ .text          0x0001caac       0xd4 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Dev.o)
+                0x0001caac                Dev_pollOpen
+ .text          0x0001cb80      0x780 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MemoryOS.o)
+                0x0001d078                MemoryOS_set
+                0x0001d0fc                MemoryOS_copy
+                0x0001cbb4                MemoryOS_map
+                0x0001ce54                MemoryOS_setup
+                0x0001cf3c                MemoryOS_translate
+                0x0001cb9c                MemoryOS_alloc
+                0x0001cda8                MemoryOS_destroy
+                0x0001d184                MemoryOS_unmap
+                0x0001cd78                MemoryOS_calloc
+                0x0001cb80                MemoryOS_free
+ .text          0x0001d300      0x254 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalDrv.o)
+                0x0001d450                OsalDrv_close
+                0x0001d4b8                OsalDrv_open
+                0x0001d33c                OsalDrv_unmap
+                0x0001d300                OsalDrv_ioctl
+                0x0001d390                OsalDrv_map
+ .text          0x0001d554       0xe0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalMutex.o)
+                0x0001d590                OsalMutex_delete
+                0x0001d5e0                OsalMutex_create
+                0x0001d570                OsalMutex_enter
+                0x0001d554                OsalMutex_leave
+ .text          0x0001d634     0x1674 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgr.o)
+                0x0001d874                ProcMgr_getSymbolAddress
+                0x0001e6c4                ProcMgr_destroy
+                0x0001dc54                ProcMgr_unmap
+                0x0001db9c                ProcMgr_delete
+                0x0001e0e4                ProcMgr_load
+                0x0001dae4                ProcMgr_getStartParams
+                0x0001e854                ProcMgr_detach
+                0x0001d768                ProcMgr_getSectionData
+                0x0001e688                ProcMgr_getConfig
+                0x0001daa4                ProcMgr_start
+                0x0001d724                ProcMgr_getMaxMemoryRegions
+                0x0001da6c                ProcMgr_stop
+                0x0001e2f0                ProcMgr_open
+                0x0001df64                ProcMgr_map
+                0x0001dc14                ProcMgr_Params_init
+                0x0001db1c                ProcMgr_unload
+                0x0001ea4c                ProcMgr_attach
+                0x0001d9a8                ProcMgr_read
+                0x0001d634                ProcMgr_translateAddr
+                0x0001e504                ProcMgr_create
+                0x0001da24                ProcMgr_getState
+                0x0001d730                ProcMgr_getLoadedFileId
+                0x0001db5c                ProcMgr_getAttachParams
+                0x0001e1a8                ProcMgr_close
+                0x0001d92c                ProcMgr_write
+                0x0001d8ec                ProcMgr_control
+                0x0001d820                ProcMgr_getProcInfo
+                0x0001d7c4                ProcMgr_getSectionInfo
+                0x0001e60c                ProcMgr_setup
+ .text          0x0001eca8      0x200 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgrDrvUsr.o)
+                0x0001ed04                ProcMgrDrvUsr_open
+                0x0001eca8                ProcMgrDrvUsr_close
+                0x0001ed8c                ProcMgrDrvUsr_ioctl
+ .text          0x0001eea8      0x120 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ_common.o)
+                0x0001eecc                FrameQ_getNumFrameBuffers
+                0x0001ef10                FrameQ_getFrameBufValidSize
+                0x0001ef88                FrameQ_setFrameBufDataStartOffset
+                0x0001ef48                FrameQ_setFrameBufValidSize
+                0x0001eed8                FrameQ_getFrameBuffer
+                0x0001eef4                FrameQ_getFrameBufSize
+                0x0001eea8                FrameQ_isSupportedInterface
+                0x0001ef30                FrameQ_getFrameBufDataStartOffset
+                0x0001eeb4                FrameQ_getExtendedHeaderPtr
+ .text          0x0001efc8      0x970 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMP.o)
+                0x0001f7fc                ListMP_getConfig
+                0x0001f838                ListMP_create
+                0x0001efd0                _ListMP_create
+                0x0001f370                ListMP_prev
+                0x0001f02c                ListMP_remove
+                0x0001f528                ListMP_close
+                0x0001f7a0                ListMP_setup
+                0x0001f638                ListMP_open
+                0x0001f29c                ListMP_openByAddr
+                0x0001f5b0                ListMP_delete
+                0x0001efc8                ListMP_getGate
+                0x0001f468                ListMP_getTail
+                0x0001f750                ListMP_destroy
+                0x0001f0a8                ListMP_insert
+                0x0001f330                ListMP_Params_init
+                0x0001f4c8                ListMP_getHead
+                0x0001f14c                ListMP_putTail
+                0x0001f3ec                ListMP_next
+                0x0001f6d4                ListMP_sharedMemReq
+                0x0001f1c8                ListMP_putHead
+                0x0001f244                ListMP_empty
+ .text          0x0001f938      0x11c /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMPDrv.o)
+                0x0001f970                ListMPDrv_close
+                0x0001f938                ListMPDrv_ioctl
+                0x0001f9cc                ListMPDrv_open
+ .text          0x0001fa54      0xb68 /opt/OMAPL138/MCSDK_1_01_00_02/linuxutils_2_26_02_05/packages/ti/sdo/linuxutils/cmem/lib/cmem.a470MV(cmem.o470MV)
+                0x00020408                CMEM_init
+                0x00020174                CMEM_allocPool
+                0x0001fb3c                CMEM_getNumBlocks
+                0x0001fdcc                CMEM_cacheWb
+                0x00020024                CMEM_unregister
+                0x000203f8                CMEM_alloc
+                0x00020170                CMEM_allocPool2
+                0x00020184                CMEM_registerAlloc
+                0x0001fc3c                CMEM_getBlockAttrs
+                0x0001fc54                CMEM_getVersion
+                0x0001fcc4                CMEM_cacheInv
+                0x0001ff58                CMEM_free
+                0x0001fd48                CMEM_cacheWbInv
+                0x0001fc44                CMEM_getBlock
+                0x0001fe50                CMEM_getPhys
+                0x0001ff48                CMEM_getPool2
+                0x000203f4                CMEM_alloc2
+                0x0001ff4c                CMEM_getPool
+                0x0001fae4                CMEM_exit
+ .text          0x000205bc      0x114 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_udivsi3.o)
+                0x000205bc                __udivsi3
+                0x000205bc                __aeabi_uidiv
+                0x000206b8                __aeabi_uidivmod
+ .text          0x000206d0      0x144 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_divsi3.o)
+                0x000206d0                __divsi3
+                0x000207fc                __aeabi_idivmod
+                0x000206d0                __aeabi_idiv
+ .text          0x00020814      0x2ac /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_addsubsf3.o)
+                0x00020820                __aeabi_fadd
+                0x00020a14                __aeabi_l2f
+                0x00020a04                __aeabi_ul2f
+                0x0002081c                __subsf3
+                0x000209e4                __floatsisf
+                0x00020820                __addsf3
+                0x00020814                __aeabi_frsub
+                0x00020a14                __floatdisf
+                0x0002081c                __aeabi_fsub
+                0x000209dc                __aeabi_ui2f
+                0x000209e4                __aeabi_i2f
+                0x000209dc                __floatunsisf
+                0x00020a04                __floatundisf
+ .text          0x00020ac0      0x2f8 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_muldivsf3.o)
+                0x00020c58                __aeabi_fdiv
+                0x00020c58                __divsf3
+                0x00020ac0                __aeabi_fmul
+                0x00020ac0                __mulsf3
+ .text          0x00020db8       0x5c /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_fixsfsi.o)
+                0x00020db8                __fixsfsi
+                0x00020db8                __aeabi_f2iz
+ .text          0x00020e14       0x14 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_dvmd_lnx.o)
+                0x00020e14                __div0
+ .text          0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtend.o
+ .text          0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crtn.o
+ *(.text.*personality*)
+ *(.gnu.warning)
+ *(.glue_7t)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crt1.o
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtbegin.o
+ .glue_7t       0x00020e28        0x0 bin/debug/obj/main.ov5T
+ .glue_7t       0x00020e28        0x0 bin/debug/obj/DecFsk.ov5T
+ .glue_7t       0x00020e28        0x0 bin/debug/obj/EncFsk.ov5T
+ .glue_7t       0x00020e28        0x0 bin/debug/obj/EncFskDemo.ov5T
+ .glue_7t       0x00020e28        0x0 bin/debug/obj/DecFskDemo.ov5T
+ .glue_7t       0x00020e28        0x0 bin/debug/obj/TerminalIntr.ov5T
+ .glue_7t       0x00020e28        0x0 bin/debug/obj/crc32.ov5T
+ .glue_7t       0x00020e28        0x0 bin/debug/obj/u_boot_env.ov5T
+ .glue_7t       0x00020e28        0x0 /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/dsp/DecFsk/lib/IDecFsk.a_debug(DecFsk.o)
+ .glue_7t       0x00020e28        0x0 /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/common/sout/lib/Isout.a_debug(sout.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/libpthread.so.0
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/libc.so.6
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/./libc_nonshared.a(elf-init.oS)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/ld-linux.so.3
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/librt.so
+ .glue_7t       0x00020e28        0x0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(AlgStub.o)
+ .glue_7t       0x00020e28        0x0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(BurchFw.o)
+ .glue_7t       0x00020e28        0x0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_debug(BUFQue.o)
+ .glue_7t       0x00020e28        0x0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_debug(Mailbox.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Notify.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQ.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Ipc.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIO.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShm.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgr.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgr.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMP.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMP.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMP.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegionDrv.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NotifyDrvUsr.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMPDrv.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQDrv.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(IpcDrv.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQDrv.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgrDrv.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgrDrv.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIODrv.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShmDrv.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMPDrv.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMPDrv.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalProcess.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMutex.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Memory.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(List.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(String.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServer.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProc.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Gate.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SysLink.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Cache.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServerDrv.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProcDrv.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(CacheDrv.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Dev.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MemoryOS.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalDrv.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalMutex.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgr.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgrDrvUsr.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ_common.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMP.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMPDrv.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linuxutils_2_26_02_05/packages/ti/sdo/linuxutils/cmem/lib/cmem.a470MV(cmem.o470MV)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/libm.so
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_udivsi3.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_divsi3.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_addsubsf3.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_muldivsf3.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_fixsfsi.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_dvmd_lnx.o)
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/../../../../arm-arago-linux-gnueabi/lib/libgcc_s.so
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/libc.so.6
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/ld-linux.so.3
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/../../../../arm-arago-linux-gnueabi/lib/libgcc_s.so
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtend.o
+ .glue_7t       0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crtn.o
+ *(.glue_7)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crt1.o
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtbegin.o
+ .glue_7        0x00020e28        0x0 bin/debug/obj/main.ov5T
+ .glue_7        0x00020e28        0x0 bin/debug/obj/DecFsk.ov5T
+ .glue_7        0x00020e28        0x0 bin/debug/obj/EncFsk.ov5T
+ .glue_7        0x00020e28        0x0 bin/debug/obj/EncFskDemo.ov5T
+ .glue_7        0x00020e28        0x0 bin/debug/obj/DecFskDemo.ov5T
+ .glue_7        0x00020e28        0x0 bin/debug/obj/TerminalIntr.ov5T
+ .glue_7        0x00020e28        0x0 bin/debug/obj/crc32.ov5T
+ .glue_7        0x00020e28        0x0 bin/debug/obj/u_boot_env.ov5T
+ .glue_7        0x00020e28        0x0 /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/dsp/DecFsk/lib/IDecFsk.a_debug(DecFsk.o)
+ .glue_7        0x00020e28        0x0 /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/common/sout/lib/Isout.a_debug(sout.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/libpthread.so.0
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/libc.so.6
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/./libc_nonshared.a(elf-init.oS)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/ld-linux.so.3
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/librt.so
+ .glue_7        0x00020e28        0x0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(AlgStub.o)
+ .glue_7        0x00020e28        0x0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(BurchFw.o)
+ .glue_7        0x00020e28        0x0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_debug(BUFQue.o)
+ .glue_7        0x00020e28        0x0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_debug(Mailbox.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Notify.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQ.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Ipc.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIO.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShm.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgr.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgr.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMP.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMP.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMP.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegionDrv.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NotifyDrvUsr.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMPDrv.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQDrv.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(IpcDrv.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQDrv.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgrDrv.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgrDrv.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIODrv.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShmDrv.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMPDrv.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMPDrv.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalProcess.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMutex.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Memory.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(List.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(String.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServer.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProc.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Gate.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SysLink.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Cache.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServerDrv.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProcDrv.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(CacheDrv.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Dev.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MemoryOS.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalDrv.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalMutex.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgr.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgrDrvUsr.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ_common.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMP.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMPDrv.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linuxutils_2_26_02_05/packages/ti/sdo/linuxutils/cmem/lib/cmem.a470MV(cmem.o470MV)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/libm.so
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_udivsi3.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_divsi3.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_addsubsf3.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_muldivsf3.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_fixsfsi.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_dvmd_lnx.o)
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/../../../../arm-arago-linux-gnueabi/lib/libgcc_s.so
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/libc.so.6
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/ld-linux.so.3
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/../../../../arm-arago-linux-gnueabi/lib/libgcc_s.so
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtend.o
+ .glue_7        0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crtn.o
+ *(.vfp11_veneer)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crt1.o
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtbegin.o
+ .vfp11_veneer  0x00020e28        0x0 bin/debug/obj/main.ov5T
+ .vfp11_veneer  0x00020e28        0x0 bin/debug/obj/DecFsk.ov5T
+ .vfp11_veneer  0x00020e28        0x0 bin/debug/obj/EncFsk.ov5T
+ .vfp11_veneer  0x00020e28        0x0 bin/debug/obj/EncFskDemo.ov5T
+ .vfp11_veneer  0x00020e28        0x0 bin/debug/obj/DecFskDemo.ov5T
+ .vfp11_veneer  0x00020e28        0x0 bin/debug/obj/TerminalIntr.ov5T
+ .vfp11_veneer  0x00020e28        0x0 bin/debug/obj/crc32.ov5T
+ .vfp11_veneer  0x00020e28        0x0 bin/debug/obj/u_boot_env.ov5T
+ .vfp11_veneer  0x00020e28        0x0 /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/dsp/DecFsk/lib/IDecFsk.a_debug(DecFsk.o)
+ .vfp11_veneer  0x00020e28        0x0 /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/common/sout/lib/Isout.a_debug(sout.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/libpthread.so.0
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/libc.so.6
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/./libc_nonshared.a(elf-init.oS)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/ld-linux.so.3
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/librt.so
+ .vfp11_veneer  0x00020e28        0x0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(AlgStub.o)
+ .vfp11_veneer  0x00020e28        0x0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(BurchFw.o)
+ .vfp11_veneer  0x00020e28        0x0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_debug(BUFQue.o)
+ .vfp11_veneer  0x00020e28        0x0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_debug(Mailbox.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Notify.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQ.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Ipc.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIO.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShm.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgr.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgr.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMP.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMP.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMP.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegionDrv.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NotifyDrvUsr.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMPDrv.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQDrv.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(IpcDrv.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQDrv.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgrDrv.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgrDrv.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIODrv.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShmDrv.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMPDrv.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMPDrv.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalProcess.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMutex.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Memory.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(List.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(String.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServer.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProc.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Gate.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SysLink.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Cache.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServerDrv.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProcDrv.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(CacheDrv.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Dev.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MemoryOS.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalDrv.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalMutex.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgr.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgrDrvUsr.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ_common.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMP.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMPDrv.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linuxutils_2_26_02_05/packages/ti/sdo/linuxutils/cmem/lib/cmem.a470MV(cmem.o470MV)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/libm.so
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_udivsi3.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_divsi3.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_addsubsf3.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_muldivsf3.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_fixsfsi.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_dvmd_lnx.o)
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/../../../../arm-arago-linux-gnueabi/lib/libgcc_s.so
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/libc.so.6
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/ld-linux.so.3
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/../../../../arm-arago-linux-gnueabi/lib/libgcc_s.so
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtend.o
+ .vfp11_veneer  0x00020e28        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crtn.o
+
+.fini           0x00020e28       0x10
+ *(.fini)
+ .fini          0x00020e28        0x8 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+                0x00020e28                _fini
+ .fini          0x00020e30        0x8 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crtn.o
+                0x00020e38                PROVIDE (__etext, .)
+                0x00020e38                PROVIDE (_etext, .)
+                0x00020e38                PROVIDE (etext, .)
+
+.rodata         0x00020e38     0x1688
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.cst4   0x00020e38        0x4 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crt1.o
+                0x00020e38                _IO_stdin_used
+ .rodata        0x00020e3c       0xdc bin/debug/obj/main.ov5T
+ .rodata        0x00020f18       0x18 bin/debug/obj/DecFsk.ov5T
+ .rodata        0x00020f30       0x8c bin/debug/obj/EncFsk.ov5T
+ .rodata        0x00020fbc       0x80 bin/debug/obj/EncFskDemo.ov5T
+ .rodata        0x0002103c       0xa0 bin/debug/obj/DecFskDemo.ov5T
+ .rodata        0x000210dc      0x1dc bin/debug/obj/TerminalIntr.ov5T
+ .rodata        0x000212b8        0xe bin/debug/obj/crc32.ov5T
+ *fill*         0x000212c6        0x2 00
+ .rodata        0x000212c8       0x58 bin/debug/obj/u_boot_env.ov5T
+ .rodata        0x00021320        0x4 /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/dsp/DecFsk/lib/IDecFsk.a_debug(DecFsk.o)
+ .rodata        0x00021324        0x8 /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/common/sout/lib/Isout.a_debug(sout.o)
+ .rodata        0x0002132c        0xc /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(AlgStub.o)
+ .rodata        0x00021338       0xf0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(BurchFw.o)
+ .rodata.str1.4
+                0x00021428        0xa /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Ipc.o)
+                                  0xc (size before relaxing)
+ .rodata.str1.4
+                0x00000000        0xa /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ.o)
+                                  0x8 (size before relaxing)
+ .rodata.str1.4
+                0x00000000        0xa /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgr.o)
+                                 0x10 (size before relaxing)
+ *fill*         0x00021432        0x2 00
+ .rodata.str1.4
+                0x00021434       0x57 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegionDrv.o)
+                                 0x58 (size before relaxing)
+ *fill*         0x0002148b        0x1 00
+ .rodata.str1.4
+                0x0002148c       0x9b /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NotifyDrvUsr.o)
+                                 0x9c (size before relaxing)
+ *fill*         0x00021527        0x1 00
+ .rodata.str1.4
+                0x00021528       0x36 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMPDrv.o)
+                                 0x38 (size before relaxing)
+ *fill*         0x0002155e        0x2 00
+ .rodata.str1.4
+                0x00021560       0x31 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQDrv.o)
+                                 0x34 (size before relaxing)
+ *fill*         0x00021591        0x3 00
+ .rodata.str1.4
+                0x00021594       0x28 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(IpcDrv.o)
+ .rodata.str1.4
+                0x000215bc       0x2f /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQDrv.o)
+                                 0x30 (size before relaxing)
+ *fill*         0x000215eb        0x1 00
+ .rodata.str1.4
+                0x000215ec       0x39 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgrDrv.o)
+                                 0x3c (size before relaxing)
+ *fill*         0x00021625        0x3 00
+ .rodata.str1.4
+                0x00021628       0x40 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgrDrv.o)
+ .rodata.str1.4
+                0x00021668       0x2f /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIODrv.o)
+                                 0x30 (size before relaxing)
+ *fill*         0x00021697        0x1 00
+ .rodata.str1.4
+                0x00021698       0x1a /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShmDrv.o)
+                                 0x34 (size before relaxing)
+ *fill*         0x000216b2        0x2 00
+ .rodata.str1.4
+                0x000216b4       0x36 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMPDrv.o)
+                                 0x38 (size before relaxing)
+ *fill*         0x000216ea        0x2 00
+ .rodata.str1.4
+                0x000216ec       0x2f /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMPDrv.o)
+                                 0x30 (size before relaxing)
+ *fill*         0x0002171b        0x1 00
+ .rodata.str1.4
+                0x0002171c       0x11 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(String.o)
+                                 0x14 (size before relaxing)
+ *fill*         0x0002172d        0x3 00
+ .rodata        0x00021730      0x400 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(String.o)
+ .rodata.str1.4
+                0x00021b30       0x37 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServerDrv.o)
+                                 0x38 (size before relaxing)
+ *fill*         0x00021b67        0x1 00
+ .rodata.str1.4
+                0x00021b68       0x36 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProcDrv.o)
+                                 0x38 (size before relaxing)
+ *fill*         0x00021b9e        0x2 00
+ .rodata.str1.4
+                0x00021ba0       0x71 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Dev.o)
+                                 0x74 (size before relaxing)
+ *fill*         0x00021c11        0x3 00
+ .rodata.str1.4
+                0x00021c14       0x6e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalDrv.o)
+                                 0x70 (size before relaxing)
+ *fill*         0x00021c82        0x2 00
+ .rodata.str1.4
+                0x00021c84       0x75 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgrDrvUsr.o)
+                                 0x78 (size before relaxing)
+ *fill*         0x00021cf9        0x3 00
+ .rodata.str1.4
+                0x00021cfc       0x2f /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMPDrv.o)
+                                 0x30 (size before relaxing)
+ *fill*         0x00021d2b        0x1 00
+ .rodata.str1.4
+                0x00021d2c      0x794 /opt/OMAPL138/MCSDK_1_01_00_02/linuxutils_2_26_02_05/packages/ti/sdo/linuxutils/cmem/lib/cmem.a470MV(cmem.o470MV)
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab      0x000224c0        0x0
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x000224c0        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crt1.o
+                0x000224c0                __exidx_start = .
+
+.ARM.exidx      0x000224c0        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x000224c0        0x8 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crt1.o
+                0x000224c8                __exidx_end = .
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame       0x000224c8        0x4
+ *(.eh_frame)
+ .eh_frame      0x000224c8        0x4 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtend.o
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+                0x000224cc                . = (ALIGN (0x8000) - ((0x8000 - .) & 0x7fff))
+                0x0002b000                . = (0x8000 DATA_SEGMENT_ALIGN 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array  0x0002b000        0x0
+                0x0002b000                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x0002b000                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x0002b000        0x4
+                0x0002b000                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x0002b000        0x4 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtbegin.o
+                0x0002b004                PROVIDE (__init_array_end, .)
+
+.fini_array     0x0002b004        0x4
+                0x0002b004                PROVIDE (__fini_array_start, .)
+ *(.fini_array)
+ .fini_array    0x0002b004        0x4 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtbegin.o
+ *(SORT(.fini_array.*))
+                0x0002b008                PROVIDE (__fini_array_end, .)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr            0x0002b008        0x4
+ *(.jcr)
+ .jcr           0x0002b008        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtbegin.o
+ .jcr           0x0002b008        0x4 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtend.o
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x0002b00c      0x100
+ *(.dynamic)
+ .dynamic       0x0002b00c      0x100 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+                0x0002b00c                _DYNAMIC
+                0x0002b10c                . = (. DATA_SEGMENT_RELRO_END 0x0)
+
+.got            0x0002b10c      0x12c
+ *(.got.plt)
+ .got.plt       0x0002b10c      0x11c /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+                0x0002b10c                _GLOBAL_OFFSET_TABLE_
+ *(.got)
+ .got           0x0002b228       0x10 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+
+.data           0x0002b238      0x560
+                0x0002b238                __data_start = .
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0002b238        0x4 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crt1.o
+                0x0002b238                data_start
+ .data          0x0002b23c        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+ .data          0x0002b23c        0x4 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtbegin.o
+                0x0002b23c                __dso_handle
+ .data          0x0002b240        0x0 bin/debug/obj/main.ov5T
+ .data          0x0002b240        0xc bin/debug/obj/DecFsk.ov5T
+ .data          0x0002b24c        0xc bin/debug/obj/EncFsk.ov5T
+ .data          0x0002b258        0xc bin/debug/obj/EncFskDemo.ov5T
+ .data          0x0002b264        0xc bin/debug/obj/DecFskDemo.ov5T
+ .data          0x0002b270       0xf0 bin/debug/obj/TerminalIntr.ov5T
+                0x0002b2de                takeoff_data
+                0x0002b2f4                flip_left
+                0x0002b270                sendbuf_yindaomoshi
+                0x0002b27e                sendbuf_jiesuo
+                0x0002b2a7                sendbuf_qifei14mi
+                0x0002b2d0                sendbuf_jiangluo
+                0x0002b304                jsonReq
+                0x0002b2e9                land_data
+ .data          0x0002b360      0x404 bin/debug/obj/crc32.ov5T
+ .data          0x0002b764        0x0 bin/debug/obj/u_boot_env.ov5T
+ .data          0x0002b764        0x0 /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/dsp/DecFsk/lib/IDecFsk.a_debug(DecFsk.o)
+ .data          0x0002b764        0x0 /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/common/sout/lib/Isout.a_debug(sout.o)
+ .data          0x0002b764        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/./libc_nonshared.a(elf-init.oS)
+ .data          0x0002b764        0xc /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(AlgStub.o)
+ .data          0x0002b770        0x0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(BurchFw.o)
+ .data          0x0002b770        0x0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_debug(BUFQue.o)
+ .data          0x0002b770        0x0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_debug(Mailbox.o)
+ .data          0x0002b770        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o)
+ .data          0x0002b770        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Notify.o)
+ .data          0x0002b770        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQ.o)
+ .data          0x0002b770        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Ipc.o)
+ .data          0x0002b770        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIO.o)
+ .data          0x0002b770        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShm.o)
+ .data          0x0002b770        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ.o)
+ .data          0x0002b770        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgr.o)
+ .data          0x0002b770        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgr.o)
+ .data          0x0002b770        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMP.o)
+ .data          0x0002b770        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMP.o)
+ .data          0x0002b770        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMP.o)
+ .data          0x0002b770        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegionDrv.o)
+ .data          0x0002b770        0x4 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NotifyDrvUsr.o)
+ .data          0x0002b774        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMPDrv.o)
+ .data          0x0002b774        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQDrv.o)
+ .data          0x0002b774        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(IpcDrv.o)
+ .data          0x0002b774        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQDrv.o)
+ .data          0x0002b774        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgrDrv.o)
+ .data          0x0002b774        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgrDrv.o)
+ .data          0x0002b774        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIODrv.o)
+ .data          0x0002b774        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShmDrv.o)
+ .data          0x0002b774        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMPDrv.o)
+ .data          0x0002b774        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMPDrv.o)
+ .data          0x0002b774        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalProcess.o)
+ .data          0x0002b774        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMutex.o)
+ .data          0x0002b774        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Memory.o)
+ .data          0x0002b774        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(List.o)
+ .data          0x0002b774        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(String.o)
+ .data          0x0002b774        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServer.o)
+ .data          0x0002b774        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProc.o)
+ .data          0x0002b774        0xc /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Gate.o)
+                0x0002b77c                Gate_systemHandle
+                0x0002b774                Gate_systemObject
+ .data          0x0002b780        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SysLink.o)
+ .data          0x0002b780        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Cache.o)
+ .data          0x0002b780        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServerDrv.o)
+ .data          0x0002b780        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProcDrv.o)
+ .data          0x0002b780        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(CacheDrv.o)
+ .data          0x0002b780        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Dev.o)
+ .data          0x0002b780        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MemoryOS.o)
+ .data          0x0002b780        0x4 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalDrv.o)
+ .data          0x0002b784        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalMutex.o)
+ .data          0x0002b784        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgr.o)
+ .data          0x0002b784        0x4 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgrDrvUsr.o)
+ .data          0x0002b788        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ_common.o)
+ .data          0x0002b788        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMP.o)
+ .data          0x0002b788        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMPDrv.o)
+ .data          0x0002b788       0x10 /opt/OMAPL138/MCSDK_1_01_00_02/linuxutils_2_26_02_05/packages/ti/sdo/linuxutils/cmem/lib/cmem.a470MV(cmem.o470MV)
+                0x0002b788                CMEM_DEFAULTPARAMS
+ .data          0x0002b798        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_udivsi3.o)
+ .data          0x0002b798        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_divsi3.o)
+ .data          0x0002b798        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_addsubsf3.o)
+ .data          0x0002b798        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_muldivsf3.o)
+ .data          0x0002b798        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_fixsfsi.o)
+ .data          0x0002b798        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_dvmd_lnx.o)
+ .data          0x0002b798        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtend.o
+ .data          0x0002b798        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crtn.o
+ *(.gnu.linkonce.d.*personality*)
+
+.data1
+ *(.data1)
+                0x0002b798                _edata = .
+                0x0002b798                PROVIDE (edata, .)
+                0x0002b798                __bss_start = .
+                0x0002b798                __bss_start__ = .
+
+.bss            0x0002b798    0x2d618
+ *(.dynbss)
+ .dynbss        0x0002b798        0x4 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+                0x0002b798                stderr@@GLIBC_2.4
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0002b79c        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crt1.o
+ .bss           0x0002b79c        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+ .bss           0x0002b79c        0x1 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtbegin.o
+ *fill*         0x0002b79d        0x3 00
+ .bss           0x0002b7a0       0x28 bin/debug/obj/main.ov5T
+ .bss           0x0002b7c8        0x0 bin/debug/obj/DecFsk.ov5T
+ .bss           0x0002b7c8        0x4 bin/debug/obj/EncFsk.ov5T
+ .bss           0x0002b7cc        0x0 bin/debug/obj/EncFskDemo.ov5T
+ .bss           0x0002b7cc        0x0 bin/debug/obj/DecFskDemo.ov5T
+ .bss           0x0002b7cc        0x8 bin/debug/obj/TerminalIntr.ov5T
+ .bss           0x0002b7d4        0x0 bin/debug/obj/crc32.ov5T
+ .bss           0x0002b7d4        0x0 bin/debug/obj/u_boot_env.ov5T
+ .bss           0x0002b7d4        0x0 /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/dsp/DecFsk/lib/IDecFsk.a_debug(DecFsk.o)
+ .bss           0x0002b7d4        0x0 /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/common/sout/lib/Isout.a_debug(sout.o)
+ .bss           0x0002b7d4        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/./libc_nonshared.a(elf-init.oS)
+ .bss           0x0002b7d4        0x8 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(AlgStub.o)
+ .bss           0x0002b7dc        0x0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(BurchFw.o)
+ .bss           0x0002b7dc        0x0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_debug(BUFQue.o)
+ .bss           0x0002b7dc        0x0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_debug(Mailbox.o)
+ .bss           0x0002b7dc      0x120 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o)
+ .bss           0x0002b8fc       0x14 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Notify.o)
+ .bss           0x0002b910        0x4 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQ.o)
+ .bss           0x0002b914       0x5c /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Ipc.o)
+                0x0002b914                SysLinkCfg_sysMemMap
+                0x0002b91c                SysLink_params
+ .bss           0x0002b970        0xc /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIO.o)
+ .bss           0x0002b97c        0x8 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShm.o)
+ .bss           0x0002b984       0x20 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ.o)
+ .bss           0x0002b9a4       0x20 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgr.o)
+ .bss           0x0002b9c4    0x2d024 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgr.o)
+ .bss           0x000589e8        0x4 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMP.o)
+ .bss           0x000589ec        0x4 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMP.o)
+ .bss           0x000589f0       0x1c /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMP.o)
+ .bss           0x00058a0c        0x8 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegionDrv.o)
+ .bss           0x00058a14        0xc /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NotifyDrvUsr.o)
+ .bss           0x00058a20        0x8 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMPDrv.o)
+ .bss           0x00058a28        0x8 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQDrv.o)
+ .bss           0x00058a30        0x8 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(IpcDrv.o)
+ .bss           0x00058a38        0x8 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQDrv.o)
+ .bss           0x00058a40        0x8 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgrDrv.o)
+ .bss           0x00058a48        0x8 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgrDrv.o)
+ .bss           0x00058a50        0x8 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIODrv.o)
+ .bss           0x00058a58        0x8 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShmDrv.o)
+ .bss           0x00058a60        0x8 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMPDrv.o)
+ .bss           0x00058a68        0x8 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMPDrv.o)
+ .bss           0x00058a70        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalProcess.o)
+ .bss           0x00058a70        0x4 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMutex.o)
+ .bss           0x00058a74        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Memory.o)
+ .bss           0x00058a74        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(List.o)
+ .bss           0x00058a74        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(String.o)
+ .bss           0x00058a74        0xc /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServer.o)
+ .bss           0x00058a80      0x298 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProc.o)
+ .bss           0x00058d18       0x18 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Gate.o)
+                0x00058d18                staticMutex
+ .bss           0x00058d30        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SysLink.o)
+ .bss           0x00058d30        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Cache.o)
+ .bss           0x00058d30        0x8 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServerDrv.o)
+ .bss           0x00058d38        0x8 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProcDrv.o)
+ .bss           0x00058d40        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(CacheDrv.o)
+ .bss           0x00058d40        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Dev.o)
+ .bss           0x00058d40       0x28 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MemoryOS.o)
+ .bss           0x00058d68        0x4 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalDrv.o)
+ .bss           0x00058d6c        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalMutex.o)
+ .bss           0x00058d6c       0x2c /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgr.o)
+ .bss           0x00058d98        0x4 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgrDrvUsr.o)
+ .bss           0x00058d9c        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ_common.o)
+ .bss           0x00058d9c        0x4 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMP.o)
+ .bss           0x00058da0        0x8 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMPDrv.o)
+ .bss           0x00058da8        0x4 /opt/OMAPL138/MCSDK_1_01_00_02/linuxutils_2_26_02_05/packages/ti/sdo/linuxutils/cmem/lib/cmem.a470MV(cmem.o470MV)
+ .bss           0x00058dac        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_udivsi3.o)
+ .bss           0x00058dac        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_divsi3.o)
+ .bss           0x00058dac        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_addsubsf3.o)
+ .bss           0x00058dac        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_muldivsf3.o)
+ .bss           0x00058dac        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_fixsfsi.o)
+ .bss           0x00058dac        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_dvmd_lnx.o)
+ .bss           0x00058dac        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtend.o
+ .bss           0x00058dac        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crtn.o
+ *(COMMON)
+ COMMON         0x00058dac        0x4 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServer.o)
+                0x00058dac                NameServer_Object
+                0x00058db0                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0x00058db0                _bss_end__ = .
+                0x00058db0                __bss_end__ = .
+                0x00058db0                . = ALIGN (0x4)
+                0x00058db0                . = ALIGN (0x4)
+                0x00058db0                __end__ = .
+                0x00058db0                _end = .
+                0x00058db0                PROVIDE (end, .)
+                0x00058db0                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000      0x4b6
+ *(.comment)
+ .comment       0x00000000       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crt1.o
+ .comment       0x00000012       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+ .comment       0x00000024       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtbegin.o
+ .comment       0x00000036       0x12 bin/debug/obj/main.ov5T
+ .comment       0x00000048       0x12 bin/debug/obj/DecFsk.ov5T
+ .comment       0x0000005a       0x12 bin/debug/obj/EncFsk.ov5T
+ .comment       0x0000006c       0x12 bin/debug/obj/EncFskDemo.ov5T
+ .comment       0x0000007e       0x12 bin/debug/obj/DecFskDemo.ov5T
+ .comment       0x00000090       0x12 bin/debug/obj/TerminalIntr.ov5T
+ .comment       0x000000a2       0x12 bin/debug/obj/crc32.ov5T
+ .comment       0x000000b4       0x12 bin/debug/obj/u_boot_env.ov5T
+ .comment       0x000000c6       0x12 /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/dsp/DecFsk/lib/IDecFsk.a_debug(DecFsk.o)
+ .comment       0x000000d8       0x12 /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/common/sout/lib/Isout.a_debug(sout.o)
+ .comment       0x000000ea       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/./libc_nonshared.a(elf-init.oS)
+ .comment       0x000000fc       0x12 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(AlgStub.o)
+ .comment       0x0000010e       0x12 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(BurchFw.o)
+ .comment       0x00000120       0x12 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_debug(BUFQue.o)
+ .comment       0x00000132       0x12 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_debug(Mailbox.o)
+ .comment       0x00000144       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o)
+ .comment       0x00000156       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Notify.o)
+ .comment       0x00000168       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQ.o)
+ .comment       0x0000017a       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Ipc.o)
+ .comment       0x0000018c       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIO.o)
+ .comment       0x0000019e       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShm.o)
+ .comment       0x000001b0       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ.o)
+ .comment       0x000001c2       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgr.o)
+ .comment       0x000001d4       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgr.o)
+ .comment       0x000001e6       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMP.o)
+ .comment       0x000001f8       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMP.o)
+ .comment       0x0000020a       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMP.o)
+ .comment       0x0000021c       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegionDrv.o)
+ .comment       0x0000022e       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NotifyDrvUsr.o)
+ .comment       0x00000240       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMPDrv.o)
+ .comment       0x00000252       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQDrv.o)
+ .comment       0x00000264       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(IpcDrv.o)
+ .comment       0x00000276       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQDrv.o)
+ .comment       0x00000288       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgrDrv.o)
+ .comment       0x0000029a       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgrDrv.o)
+ .comment       0x000002ac       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIODrv.o)
+ .comment       0x000002be       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShmDrv.o)
+ .comment       0x000002d0       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMPDrv.o)
+ .comment       0x000002e2       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMPDrv.o)
+ .comment       0x000002f4       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalProcess.o)
+ .comment       0x00000306       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMutex.o)
+ .comment       0x00000318       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Memory.o)
+ .comment       0x0000032a       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(List.o)
+ .comment       0x0000033c       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(String.o)
+ .comment       0x0000034e       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServer.o)
+ .comment       0x00000360       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProc.o)
+ .comment       0x00000372       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Gate.o)
+ .comment       0x00000384       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SysLink.o)
+ .comment       0x00000396       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Cache.o)
+ .comment       0x000003a8       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServerDrv.o)
+ .comment       0x000003ba       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProcDrv.o)
+ .comment       0x000003cc       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(CacheDrv.o)
+ .comment       0x000003de       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Dev.o)
+ .comment       0x000003f0       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MemoryOS.o)
+ .comment       0x00000402       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalDrv.o)
+ .comment       0x00000414       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalMutex.o)
+ .comment       0x00000426       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgr.o)
+ .comment       0x00000438       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgrDrvUsr.o)
+ .comment       0x0000044a       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ_common.o)
+ .comment       0x0000045c       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMP.o)
+ .comment       0x0000046e       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMPDrv.o)
+ .comment       0x00000480       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/linuxutils_2_26_02_05/packages/ti/sdo/linuxutils/cmem/lib/cmem.a470MV(cmem.o470MV)
+ .comment       0x00000492       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtend.o
+ .comment       0x000004a4       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crtn.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x2d8
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x30 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+ .debug_aranges
+                0x00000030       0x20 bin/debug/obj/main.ov5T
+ .debug_aranges
+                0x00000050       0x20 bin/debug/obj/DecFsk.ov5T
+ .debug_aranges
+                0x00000070       0x20 bin/debug/obj/EncFsk.ov5T
+ .debug_aranges
+                0x00000090       0x20 bin/debug/obj/EncFskDemo.ov5T
+ .debug_aranges
+                0x000000b0       0x20 bin/debug/obj/DecFskDemo.ov5T
+ .debug_aranges
+                0x000000d0       0x20 bin/debug/obj/TerminalIntr.ov5T
+ .debug_aranges
+                0x000000f0       0x20 bin/debug/obj/crc32.ov5T
+ .debug_aranges
+                0x00000110       0x20 bin/debug/obj/u_boot_env.ov5T
+ .debug_aranges
+                0x00000130       0x20 /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/dsp/DecFsk/lib/IDecFsk.a_debug(DecFsk.o)
+ .debug_aranges
+                0x00000150       0x20 /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/common/sout/lib/Isout.a_debug(sout.o)
+ .debug_aranges
+                0x00000170       0x20 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(AlgStub.o)
+ .debug_aranges
+                0x00000190       0x20 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(BurchFw.o)
+ .debug_aranges
+                0x000001b0       0x20 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_debug(BUFQue.o)
+ .debug_aranges
+                0x000001d0       0x20 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_debug(Mailbox.o)
+ .debug_aranges
+                0x000001f0       0x20 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_udivsi3.o)
+ .debug_aranges
+                0x00000210       0x20 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_divsi3.o)
+ .debug_aranges
+                0x00000230       0x20 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_addsubsf3.o)
+ .debug_aranges
+                0x00000250       0x20 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_muldivsf3.o)
+ .debug_aranges
+                0x00000270       0x20 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_fixsfsi.o)
+ .debug_aranges
+                0x00000290       0x20 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_dvmd_lnx.o)
+ .debug_aranges
+                0x000002b0       0x28 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crtn.o
+
+.debug_pubnames
+                0x00000000      0x47f
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x1b bin/debug/obj/main.ov5T
+ .debug_pubnames
+                0x0000001b       0x22 bin/debug/obj/DecFsk.ov5T
+ .debug_pubnames
+                0x0000003d       0x60 bin/debug/obj/EncFsk.ov5T
+ .debug_pubnames
+                0x0000009d       0x21 bin/debug/obj/EncFskDemo.ov5T
+ .debug_pubnames
+                0x000000be       0x21 bin/debug/obj/DecFskDemo.ov5T
+ .debug_pubnames
+                0x000000df       0xef bin/debug/obj/TerminalIntr.ov5T
+ .debug_pubnames
+                0x000001ce       0x22 bin/debug/obj/crc32.ov5T
+ .debug_pubnames
+                0x000001f0       0x67 bin/debug/obj/u_boot_env.ov5T
+ .debug_pubnames
+                0x00000257       0x36 /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/dsp/DecFsk/lib/IDecFsk.a_debug(DecFsk.o)
+ .debug_pubnames
+                0x0000028d       0x32 /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/common/sout/lib/Isout.a_debug(sout.o)
+ .debug_pubnames
+                0x000002bf       0xbb /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(AlgStub.o)
+ .debug_pubnames
+                0x0000037a       0x49 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(BurchFw.o)
+ .debug_pubnames
+                0x000003c3       0x72 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_debug(BUFQue.o)
+ .debug_pubnames
+                0x00000435       0x4a /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_debug(Mailbox.o)
+
+.debug_info     0x00000000     0x7794
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000       0xd7 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+ .debug_info    0x000000d7      0x442 bin/debug/obj/main.ov5T
+ .debug_info    0x00000519      0xa25 bin/debug/obj/DecFsk.ov5T
+ .debug_info    0x00000f3e      0xb72 bin/debug/obj/EncFsk.ov5T
+ .debug_info    0x00001ab0      0xa6b bin/debug/obj/EncFskDemo.ov5T
+ .debug_info    0x0000251b      0xaa0 bin/debug/obj/DecFskDemo.ov5T
+ .debug_info    0x00002fbb     0x147a bin/debug/obj/TerminalIntr.ov5T
+ .debug_info    0x00004435      0x2ce bin/debug/obj/crc32.ov5T
+ .debug_info    0x00004703      0x364 bin/debug/obj/u_boot_env.ov5T
+ .debug_info    0x00004a67      0x54a /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/dsp/DecFsk/lib/IDecFsk.a_debug(DecFsk.o)
+ .debug_info    0x00004fb1      0x4ad /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/common/sout/lib/Isout.a_debug(sout.o)
+ .debug_info    0x0000545e      0x9b0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(AlgStub.o)
+ .debug_info    0x00005e0e      0x84e /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(BurchFw.o)
+ .debug_info    0x0000665c      0x270 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_debug(BUFQue.o)
+ .debug_info    0x000068cc      0x5d2 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_debug(Mailbox.o)
+ .debug_info    0x00006e9e      0x15b /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_udivsi3.o)
+ .debug_info    0x00006ff9      0x15b /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_divsi3.o)
+ .debug_info    0x00007154      0x15a /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_addsubsf3.o)
+ .debug_info    0x000072ae      0x15a /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_muldivsf3.o)
+ .debug_info    0x00007408      0x15a /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_fixsfsi.o)
+ .debug_info    0x00007562      0x15b /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_dvmd_lnx.o)
+ .debug_info    0x000076bd       0xd7 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crtn.o
+
+.debug_abbrev   0x00000000     0x142d
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+ .debug_abbrev  0x00000012      0x114 bin/debug/obj/main.ov5T
+ .debug_abbrev  0x00000126      0x15b bin/debug/obj/DecFsk.ov5T
+ .debug_abbrev  0x00000281      0x1f0 bin/debug/obj/EncFsk.ov5T
+ .debug_abbrev  0x00000471      0x16a bin/debug/obj/EncFskDemo.ov5T
+ .debug_abbrev  0x000005db      0x164 bin/debug/obj/DecFskDemo.ov5T
+ .debug_abbrev  0x0000073f      0x231 bin/debug/obj/TerminalIntr.ov5T
+ .debug_abbrev  0x00000970      0x10c bin/debug/obj/crc32.ov5T
+ .debug_abbrev  0x00000a7c       0xe8 bin/debug/obj/u_boot_env.ov5T
+ .debug_abbrev  0x00000b64      0x123 /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/dsp/DecFsk/lib/IDecFsk.a_debug(DecFsk.o)
+ .debug_abbrev  0x00000c87      0x100 /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/common/sout/lib/Isout.a_debug(sout.o)
+ .debug_abbrev  0x00000d87      0x1cb /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(AlgStub.o)
+ .debug_abbrev  0x00000f52      0x1ed /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(BurchFw.o)
+ .debug_abbrev  0x0000113f       0xed /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_debug(BUFQue.o)
+ .debug_abbrev  0x0000122c      0x177 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_debug(Mailbox.o)
+ .debug_abbrev  0x000013a3       0x14 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_udivsi3.o)
+ .debug_abbrev  0x000013b7       0x14 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_divsi3.o)
+ .debug_abbrev  0x000013cb       0x14 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_addsubsf3.o)
+ .debug_abbrev  0x000013df       0x14 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_muldivsf3.o)
+ .debug_abbrev  0x000013f3       0x14 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_fixsfsi.o)
+ .debug_abbrev  0x00001407       0x14 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_dvmd_lnx.o)
+ .debug_abbrev  0x0000141b       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crtn.o
+
+.debug_line     0x00000000     0x282f
+ *(.debug_line)
+ .debug_line    0x00000000       0xbf /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+ .debug_line    0x000000bf      0x1e4 bin/debug/obj/main.ov5T
+ .debug_line    0x000002a3      0x361 bin/debug/obj/DecFsk.ov5T
+ .debug_line    0x00000604      0x382 bin/debug/obj/EncFsk.ov5T
+ .debug_line    0x00000986      0x358 bin/debug/obj/EncFskDemo.ov5T
+ .debug_line    0x00000cde      0x37e bin/debug/obj/DecFskDemo.ov5T
+ .debug_line    0x0000105c      0x59d bin/debug/obj/TerminalIntr.ov5T
+ .debug_line    0x000015f9       0xfb bin/debug/obj/crc32.ov5T
+ .debug_line    0x000016f4       0xc5 bin/debug/obj/u_boot_env.ov5T
+ .debug_line    0x000017b9       0xef /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/dsp/DecFsk/lib/IDecFsk.a_debug(DecFsk.o)
+ .debug_line    0x000018a8       0xe9 /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/common/sout/lib/Isout.a_debug(sout.o)
+ .debug_line    0x00001991      0x303 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(AlgStub.o)
+ .debug_line    0x00001c94      0x24f /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(BurchFw.o)
+ .debug_line    0x00001ee3       0xa0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_debug(BUFQue.o)
+ .debug_line    0x00001f83      0x1c0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_debug(Mailbox.o)
+ .debug_line    0x00002143       0xe1 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_udivsi3.o)
+ .debug_line    0x00002224       0xed /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_divsi3.o)
+ .debug_line    0x00002311      0x170 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_addsubsf3.o)
+ .debug_line    0x00002481      0x17a /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_muldivsf3.o)
+ .debug_line    0x000025fb       0xcf /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_fixsfsi.o)
+ .debug_line    0x000026ca       0xbd /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_dvmd_lnx.o)
+ .debug_line    0x00002787       0xa8 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crtn.o
+
+.debug_frame    0x00000000      0xbe0
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x50 bin/debug/obj/main.ov5T
+ .debug_frame   0x00000050       0x90 bin/debug/obj/DecFsk.ov5T
+ .debug_frame   0x000000e0      0x114 bin/debug/obj/EncFsk.ov5T
+ .debug_frame   0x000001f4       0x90 bin/debug/obj/EncFskDemo.ov5T
+ .debug_frame   0x00000284       0x90 bin/debug/obj/DecFskDemo.ov5T
+ .debug_frame   0x00000314      0x170 bin/debug/obj/TerminalIntr.ov5T
+ .debug_frame   0x00000484       0xb0 bin/debug/obj/crc32.ov5T
+ .debug_frame   0x00000534       0xd4 bin/debug/obj/u_boot_env.ov5T
+ .debug_frame   0x00000608       0xd0 /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/dsp/DecFsk/lib/IDecFsk.a_debug(DecFsk.o)
+ .debug_frame   0x000006d8       0xd0 /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/common/sout/lib/Isout.a_debug(sout.o)
+ .debug_frame   0x000007a8      0x190 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(AlgStub.o)
+ .debug_frame   0x00000938       0xd0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(BurchFw.o)
+ .debug_frame   0x00000a08       0xb0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_debug(BUFQue.o)
+ .debug_frame   0x00000ab8       0xd0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_debug(Mailbox.o)
+ .debug_frame   0x00000b88       0x2c /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_udivsi3.o)
+ .debug_frame   0x00000bb4       0x2c /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_divsi3.o)
+
+.debug_str      0x00000000     0x185c
+ *(.debug_str)
+ .debug_str     0x00000000      0x287 bin/debug/obj/main.ov5T
+                                0x2ec (size before relaxing)
+ .debug_str     0x00000287      0x24e bin/debug/obj/DecFsk.ov5T
+                                0x566 (size before relaxing)
+ .debug_str     0x000004d5       0xc5 bin/debug/obj/EncFsk.ov5T
+                                0x5ba (size before relaxing)
+ .debug_str     0x0000059a       0x6c bin/debug/obj/EncFskDemo.ov5T
+                                0x591 (size before relaxing)
+ .debug_str     0x00000606       0x40 bin/debug/obj/DecFskDemo.ov5T
+                                0x5a4 (size before relaxing)
+ .debug_str     0x00000646      0x8c5 bin/debug/obj/TerminalIntr.ov5T
+                                0xc41 (size before relaxing)
+ .debug_str     0x00000f0b       0x82 bin/debug/obj/crc32.ov5T
+                                0x155 (size before relaxing)
+ .debug_str     0x00000f8d       0xc9 bin/debug/obj/u_boot_env.ov5T
+                                0x19b (size before relaxing)
+ .debug_str     0x00001056       0x88 /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/dsp/DecFsk/lib/IDecFsk.a_debug(DecFsk.o)
+                                0x292 (size before relaxing)
+ .debug_str     0x000010de       0x74 /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/common/sout/lib/Isout.a_debug(sout.o)
+                                0x22c (size before relaxing)
+ .debug_str     0x00001152      0x253 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(AlgStub.o)
+                                0x47b (size before relaxing)
+ .debug_str     0x000013a5      0x245 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(BurchFw.o)
+                                0x455 (size before relaxing)
+ .debug_str     0x000015ea       0x97 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_debug(BUFQue.o)
+                                0x15f (size before relaxing)
+ .debug_str     0x00001681      0x1db /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_debug(Mailbox.o)
+                                0x2fe (size before relaxing)
+
+.debug_loc      0x00000000      0xdf2
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x54 bin/debug/obj/main.ov5T
+ .debug_loc     0x00000054       0xa8 bin/debug/obj/DecFsk.ov5T
+ .debug_loc     0x000000fc      0x150 bin/debug/obj/EncFsk.ov5T
+ .debug_loc     0x0000024c       0xa8 bin/debug/obj/EncFskDemo.ov5T
+ .debug_loc     0x000002f4       0xa8 bin/debug/obj/DecFskDemo.ov5T
+ .debug_loc     0x0000039c      0x1ce bin/debug/obj/TerminalIntr.ov5T
+ .debug_loc     0x0000056a       0xd2 bin/debug/obj/crc32.ov5T
+ .debug_loc     0x0000063c       0xfc bin/debug/obj/u_boot_env.ov5T
+ .debug_loc     0x00000738       0xfc /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/dsp/DecFsk/lib/IDecFsk.a_debug(DecFsk.o)
+ .debug_loc     0x00000834       0xfc /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/common/sout/lib/Isout.a_debug(sout.o)
+ .debug_loc     0x00000930      0x1f8 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(AlgStub.o)
+ .debug_loc     0x00000b28       0xfc /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(BurchFw.o)
+ .debug_loc     0x00000c24       0xd2 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_debug(BUFQue.o)
+ .debug_loc     0x00000cf6       0xfc /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_debug(Mailbox.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000       0x60
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x28 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+ .debug_ranges  0x00000028       0x18 bin/debug/obj/TerminalIntr.ov5T
+ .debug_ranges  0x00000040       0x20 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crtn.o
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+OUTPUT(bin/debug/UdWater elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x29
+ .ARM.attributes
+                0x00000000       0x27 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crt1.o
+ .ARM.attributes
+                0x00000027       0x29 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+ .ARM.attributes
+                0x00000050       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtbegin.o
+ .ARM.attributes
+                0x0000007e       0x28 bin/debug/obj/main.ov5T
+ .ARM.attributes
+                0x000000a6       0x28 bin/debug/obj/DecFsk.ov5T
+ .ARM.attributes
+                0x000000ce       0x28 bin/debug/obj/EncFsk.ov5T
+ .ARM.attributes
+                0x000000f6       0x28 bin/debug/obj/EncFskDemo.ov5T
+ .ARM.attributes
+                0x0000011e       0x28 bin/debug/obj/DecFskDemo.ov5T
+ .ARM.attributes
+                0x00000146       0x28 bin/debug/obj/TerminalIntr.ov5T
+ .ARM.attributes
+                0x0000016e       0x28 bin/debug/obj/crc32.ov5T
+ .ARM.attributes
+                0x00000196       0x28 bin/debug/obj/u_boot_env.ov5T
+ .ARM.attributes
+                0x000001be       0x28 /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/dsp/DecFsk/lib/IDecFsk.a_debug(DecFsk.o)
+ .ARM.attributes
+                0x000001e6       0x28 /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/common/sout/lib/Isout.a_debug(sout.o)
+ .ARM.attributes
+                0x0000020e       0x29 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/./libc_nonshared.a(elf-init.oS)
+ .ARM.attributes
+                0x00000237       0x28 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(AlgStub.o)
+ .ARM.attributes
+                0x0000025f       0x28 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_debug(BurchFw.o)
+ .ARM.attributes
+                0x00000287       0x28 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_debug(BUFQue.o)
+ .ARM.attributes
+                0x000002af       0x28 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_debug(Mailbox.o)
+ .ARM.attributes
+                0x000002d7       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o)
+ .ARM.attributes
+                0x00000305       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Notify.o)
+ .ARM.attributes
+                0x00000333       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQ.o)
+ .ARM.attributes
+                0x00000361       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Ipc.o)
+ .ARM.attributes
+                0x0000038f       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIO.o)
+ .ARM.attributes
+                0x000003bd       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShm.o)
+ .ARM.attributes
+                0x000003eb       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ.o)
+ .ARM.attributes
+                0x00000419       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgr.o)
+ .ARM.attributes
+                0x00000447       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgr.o)
+ .ARM.attributes
+                0x00000475       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMP.o)
+ .ARM.attributes
+                0x000004a3       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMP.o)
+ .ARM.attributes
+                0x000004d1       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMP.o)
+ .ARM.attributes
+                0x000004ff       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SharedRegionDrv.o)
+ .ARM.attributes
+                0x0000052d       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NotifyDrvUsr.o)
+ .ARM.attributes
+                0x0000055b       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapBufMPDrv.o)
+ .ARM.attributes
+                0x00000589       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MessageQDrv.o)
+ .ARM.attributes
+                0x000005b7       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(IpcDrv.o)
+ .ARM.attributes
+                0x000005e5       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQDrv.o)
+ .ARM.attributes
+                0x00000613       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgrDrv.o)
+ .ARM.attributes
+                0x00000641       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgrDrv.o)
+ .ARM.attributes
+                0x0000066f       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIODrv.o)
+ .ARM.attributes
+                0x0000069d       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(RingIOShmDrv.o)
+ .ARM.attributes
+                0x000006cb       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(HeapMemMPDrv.o)
+ .ARM.attributes
+                0x000006f9       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMPDrv.o)
+ .ARM.attributes
+                0x00000727       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalProcess.o)
+ .ARM.attributes
+                0x00000755       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(GateMutex.o)
+ .ARM.attributes
+                0x00000783       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Memory.o)
+ .ARM.attributes
+                0x000007b1       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(List.o)
+ .ARM.attributes
+                0x000007df       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(String.o)
+ .ARM.attributes
+                0x0000080d       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServer.o)
+ .ARM.attributes
+                0x0000083b       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProc.o)
+ .ARM.attributes
+                0x00000869       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Gate.o)
+ .ARM.attributes
+                0x00000897       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(SysLink.o)
+ .ARM.attributes
+                0x000008c5       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Cache.o)
+ .ARM.attributes
+                0x000008f3       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(NameServerDrv.o)
+ .ARM.attributes
+                0x00000921       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MultiProcDrv.o)
+ .ARM.attributes
+                0x0000094f       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(CacheDrv.o)
+ .ARM.attributes
+                0x0000097d       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(Dev.o)
+ .ARM.attributes
+                0x000009ab       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(MemoryOS.o)
+ .ARM.attributes
+                0x000009d9       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalDrv.o)
+ .ARM.attributes
+                0x00000a07       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(OsalMutex.o)
+ .ARM.attributes
+                0x00000a35       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgr.o)
+ .ARM.attributes
+                0x00000a63       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ProcMgrDrvUsr.o)
+ .ARM.attributes
+                0x00000a91       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(FrameQ_common.o)
+ .ARM.attributes
+                0x00000abf       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMP.o)
+ .ARM.attributes
+                0x00000aed       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release(ListMPDrv.o)
+ .ARM.attributes
+                0x00000b1b       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/linuxutils_2_26_02_05/packages/ti/sdo/linuxutils/cmem/lib/cmem.a470MV(cmem.o470MV)
+ .ARM.attributes
+                0x00000b49       0x14 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x00000b5d       0x14 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000b71       0x14 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_addsubsf3.o)
+ .ARM.attributes
+                0x00000b85       0x14 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_muldivsf3.o)
+ .ARM.attributes
+                0x00000b99       0x14 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_fixsfsi.o)
+ .ARM.attributes
+                0x00000bad       0x14 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a(_dvmd_lnx.o)
+ .ARM.attributes
+                0x00000bc1       0x2c /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtend.o
+ .ARM.attributes
+                0x00000bed       0x29 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crtn.o

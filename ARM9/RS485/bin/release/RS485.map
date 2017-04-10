@@ -1,0 +1,560 @@
+Archive member included because of file (symbol)
+
+/opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/./libc_nonshared.a(elf-init.oS)
+                              /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crt1.o (__libc_csu_fini)
+/mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_release(BUFQue.o)
+                              bin/release/obj/main.ov5T (BufQue_putReady)
+/mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_release(Mailbox.o)
+                              /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_release(BUFQue.o) (MBX_pend)
+
+Discarded input sections
+
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crt1.o
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtbegin.o
+ .note.GNU-stack
+                0x00000000        0x0 bin/release/obj/main.ov5T
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/./libc_nonshared.a(elf-init.oS)
+ .note.GNU-stack
+                0x00000000        0x0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_release(BUFQue.o)
+ .note.GNU-stack
+                0x00000000        0x0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_release(Mailbox.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtend.o
+ .note.GNU-stack
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crt1.o
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtbegin.o
+LOAD bin/release/obj/main.ov5T
+LOAD /mnt/hgfs/OMAPL138/UnderWater/Codecs/liva/common/sout/lib/Isout.a_release
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/libpthread.so
+START GROUP
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/libpthread.so.0
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/./libpthread_nonshared.a
+END GROUP
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/libc.so
+START GROUP
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/libc.so.6
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/./libc_nonshared.a
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/ld-linux.so.3
+END GROUP
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/librt.so
+LOAD /mnt/hgfs/OMAPL138/UnderWater/BurchFw/BurchFw/lib/BurchFw.a_release
+LOAD /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_release
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/syslink_2_21_01_05/packages/ti/syslink/lib/syslink.a_release
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linuxutils_2_26_02_05/packages/ti/sdo/linuxutils/cmem/lib/cmem.a470MV
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/libm.so
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/../../../../arm-arago-linux-gnueabi/lib/libgcc_s.so
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/libc.so
+START GROUP
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/libc.so.6
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/./libc_nonshared.a
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/ld-linux.so.3
+END GROUP
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/libgcc.a
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/../../../../arm-arago-linux-gnueabi/lib/libgcc_s.so
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtend.o
+LOAD /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crtn.o
+                0x00008000                PROVIDE (__executable_start, 0x8000)
+                0x00008134                . = (0x8000 + SIZEOF_HEADERS)
+
+.interp         0x00008134       0x13
+ *(.interp)
+ .interp        0x00008134       0x13 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+
+.note.ABI-tag   0x00008148       0x20
+ .note.ABI-tag  0x00008148       0x20 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crt1.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash           0x00008168       0xc8
+ *(.hash)
+ .hash          0x00008168       0xc8 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym         0x00008230      0x1f0
+ *(.dynsym)
+ .dynsym        0x00008230      0x1f0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+
+.dynstr         0x00008420      0x1b8
+ *(.dynstr)
+ .dynstr        0x00008420      0x1b8 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+
+.gnu.version    0x000085d8       0x3e
+ *(.gnu.version)
+ .gnu.version   0x000085d8       0x3e /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+
+.gnu.version_d  0x00008618        0x0 load address 0x00008616
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+
+.gnu.version_r  0x00008618       0x40
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00008618       0x40 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+
+.rel.dyn        0x00008658       0x18
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rel.data.rel.ro* .rel.gnu.linkonce.d.rel.ro.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ .rel.got       0x00008658       0x18 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ .rel.bss       0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+
+.rela.dyn
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+
+.rel.plt        0x00008670       0xd8
+ *(.rel.plt)
+ .rel.plt       0x00008670       0xd8 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+
+.rela.plt
+ *(.rela.plt)
+
+.init           0x00008748       0x14
+ *(.init)
+ .init          0x00008748        0xc /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+                0x00008748                _init
+ .init          0x00008754        0x8 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crtn.o
+
+.plt            0x0000875c      0x158
+ *(.plt)
+ .plt           0x0000875c      0x158 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+                0x00008770                open@@GLIBC_2.4
+                0x0000877c                abort@@GLIBC_2.4
+                0x00008788                __libc_start_main@@GLIBC_2.4
+                0x000087a0                pthread_cond_wait@@GLIBC_2.4
+                0x000087ac                memset@@GLIBC_2.4
+                0x000087b8                pthread_cond_timedwait@@GLIBC_2.4
+                0x000087c4                free@@GLIBC_2.4
+                0x000087d0                read@@GLIBC_2.4
+                0x000087dc                write@@GLIBC_2.4
+                0x000087e8                gettimeofday@@GLIBC_2.4
+                0x000087f4                tcgetattr@@GLIBC_2.4
+                0x00008800                pthread_mutex_unlock@@GLIBC_2.4
+                0x0000880c                tcflush@@GLIBC_2.4
+                0x00008818                pthread_mutex_lock@@GLIBC_2.4
+                0x00008824                pthread_create@@GLIBC_2.4
+                0x00008830                memcpy@@GLIBC_2.4
+                0x0000883c                pthread_cond_signal@@GLIBC_2.4
+                0x00008848                pthread_cond_destroy@@GLIBC_2.4
+                0x00008854                pthread_mutex_destroy@@GLIBC_2.4
+                0x00008860                pthread_mutex_init@@GLIBC_2.4
+                0x0000886c                select@@GLIBC_2.4
+                0x00008878                malloc@@GLIBC_2.4
+                0x00008884                sleep@@GLIBC_2.4
+                0x00008890                puts@@GLIBC_2.4
+                0x0000889c                tcsetattr@@GLIBC_2.4
+                0x000088a8                pthread_cond_init@@GLIBC_2.4
+
+.text           0x000088b4      0xa74
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x000088b4       0x38 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crt1.o
+                0x000088b4                _start
+ .text          0x000088ec       0x24 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+ .text          0x00008910       0x58 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtbegin.o
+ .text          0x00008968      0x45c bin/release/obj/main.ov5T
+                0x00008d3c                UartParaseThrd
+                0x00008bb0                UartRxThrd
+                0x00008cd0                CmdProc
+                0x00008dac                Cmdtest
+                0x00008968                main
+ .text          0x00008dc4       0x78 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/./libc_nonshared.a(elf-init.oS)
+                0x00008dc4                __libc_csu_fini
+                0x00008dc8                __libc_csu_init
+ .text          0x00008e3c      0x128 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_release(BUFQue.o)
+                0x00008eb8                BufQue_getFree
+                0x00008ee4                BufQue_create
+                0x00008e3c                BufQue_putReady
+                0x00008e64                BufQue_putFree
+                0x00008e8c                BufQue_getReady
+ .text          0x00008f64      0x3c4 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_release(Mailbox.o)
+                0x00009298                MBX_post
+                0x000091cc                MBX_create
+                0x000090b4                MBX_pend
+                0x00009148                MBX_delete
+ .text          0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtend.o
+ .text          0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crtn.o
+ *(.text.*personality*)
+ *(.gnu.warning)
+ *(.glue_7t)
+ .glue_7t       0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crt1.o
+ .glue_7t       0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+ .glue_7t       0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtbegin.o
+ .glue_7t       0x00009328        0x0 bin/release/obj/main.ov5T
+ .glue_7t       0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/libpthread.so.0
+ .glue_7t       0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/libc.so.6
+ .glue_7t       0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/./libc_nonshared.a(elf-init.oS)
+ .glue_7t       0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/ld-linux.so.3
+ .glue_7t       0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/librt.so
+ .glue_7t       0x00009328        0x0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_release(BUFQue.o)
+ .glue_7t       0x00009328        0x0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_release(Mailbox.o)
+ .glue_7t       0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/libm.so
+ .glue_7t       0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/../../../../arm-arago-linux-gnueabi/lib/libgcc_s.so
+ .glue_7t       0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/libc.so.6
+ .glue_7t       0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/ld-linux.so.3
+ .glue_7t       0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/../../../../arm-arago-linux-gnueabi/lib/libgcc_s.so
+ .glue_7t       0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtend.o
+ .glue_7t       0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crtn.o
+ *(.glue_7)
+ .glue_7        0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crt1.o
+ .glue_7        0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+ .glue_7        0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtbegin.o
+ .glue_7        0x00009328        0x0 bin/release/obj/main.ov5T
+ .glue_7        0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/libpthread.so.0
+ .glue_7        0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/libc.so.6
+ .glue_7        0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/./libc_nonshared.a(elf-init.oS)
+ .glue_7        0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/ld-linux.so.3
+ .glue_7        0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/librt.so
+ .glue_7        0x00009328        0x0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_release(BUFQue.o)
+ .glue_7        0x00009328        0x0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_release(Mailbox.o)
+ .glue_7        0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/libm.so
+ .glue_7        0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/../../../../arm-arago-linux-gnueabi/lib/libgcc_s.so
+ .glue_7        0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/libc.so.6
+ .glue_7        0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/ld-linux.so.3
+ .glue_7        0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/../../../../arm-arago-linux-gnueabi/lib/libgcc_s.so
+ .glue_7        0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtend.o
+ .glue_7        0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crtn.o
+ *(.vfp11_veneer)
+ .vfp11_veneer  0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crt1.o
+ .vfp11_veneer  0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+ .vfp11_veneer  0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtbegin.o
+ .vfp11_veneer  0x00009328        0x0 bin/release/obj/main.ov5T
+ .vfp11_veneer  0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/libpthread.so.0
+ .vfp11_veneer  0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/libc.so.6
+ .vfp11_veneer  0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/./libc_nonshared.a(elf-init.oS)
+ .vfp11_veneer  0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/ld-linux.so.3
+ .vfp11_veneer  0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/librt.so
+ .vfp11_veneer  0x00009328        0x0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_release(BUFQue.o)
+ .vfp11_veneer  0x00009328        0x0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_release(Mailbox.o)
+ .vfp11_veneer  0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/libm.so
+ .vfp11_veneer  0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/../../../../arm-arago-linux-gnueabi/lib/libgcc_s.so
+ .vfp11_veneer  0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/libc.so.6
+ .vfp11_veneer  0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/../../lib/ld-linux.so.3
+ .vfp11_veneer  0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/../../../../arm-arago-linux-gnueabi/lib/libgcc_s.so
+ .vfp11_veneer  0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtend.o
+ .vfp11_veneer  0x00009328        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crtn.o
+
+.fini           0x00009328       0x10
+ *(.fini)
+ .fini          0x00009328        0x8 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+                0x00009328                _fini
+ .fini          0x00009330        0x8 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crtn.o
+                0x00009338                PROVIDE (__etext, .)
+                0x00009338                PROVIDE (_etext, .)
+                0x00009338                PROVIDE (etext, .)
+
+.rodata         0x00009338       0x18
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.cst4   0x00009338        0x4 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crt1.o
+                0x00009338                _IO_stdin_used
+ .rodata.str1.4
+                0x0000933c       0x14 bin/release/obj/main.ov5T
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab      0x00009350        0x0
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x00009350        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crt1.o
+                0x00009350                __exidx_start = .
+
+.ARM.exidx      0x00009350        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x00009350        0x8 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crt1.o
+                0x00009358                __exidx_end = .
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame       0x00009358        0x4
+ *(.eh_frame)
+ .eh_frame      0x00009358        0x4 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtend.o
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+                0x0000935c                . = (ALIGN (0x8000) - ((0x8000 - .) & 0x7fff))
+                0x0001135c                . = (0x8000 DATA_SEGMENT_ALIGN 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array  0x0001135c        0x0
+                0x0001135c                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x0001135c                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x0001135c        0x4
+                0x0001135c                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x0001135c        0x4 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtbegin.o
+                0x00011360                PROVIDE (__init_array_end, .)
+
+.fini_array     0x00011360        0x4
+                0x00011360                PROVIDE (__fini_array_start, .)
+ *(.fini_array)
+ .fini_array    0x00011360        0x4 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtbegin.o
+ *(SORT(.fini_array.*))
+                0x00011364                PROVIDE (__fini_array_end, .)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr            0x00011364        0x4
+ *(.jcr)
+ .jcr           0x00011364        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtbegin.o
+ .jcr           0x00011364        0x4 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtend.o
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x00011368      0x100
+ *(.dynamic)
+ .dynamic       0x00011368      0x100 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+                0x00011368                _DYNAMIC
+                0x00011468                . = (. DATA_SEGMENT_RELRO_END 0x0)
+
+.got            0x00011468       0x84
+ *(.got.plt)
+ .got.plt       0x00011468       0x78 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+                0x00011468                _GLOBAL_OFFSET_TABLE_
+ *(.got)
+ .got           0x000114e0        0xc /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+
+.data           0x000114ec        0x8
+                0x000114ec                __data_start = .
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x000114ec        0x4 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crt1.o
+                0x000114ec                data_start
+ .data          0x000114f0        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+ .data          0x000114f0        0x4 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtbegin.o
+                0x000114f0                __dso_handle
+ .data          0x000114f4        0x0 bin/release/obj/main.ov5T
+ .data          0x000114f4        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/./libc_nonshared.a(elf-init.oS)
+ .data          0x000114f4        0x0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_release(BUFQue.o)
+ .data          0x000114f4        0x0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_release(Mailbox.o)
+ .data          0x000114f4        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtend.o
+ .data          0x000114f4        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crtn.o
+ *(.gnu.linkonce.d.*personality*)
+
+.data1
+ *(.data1)
+                0x000114f4                _edata = .
+                0x000114f4                PROVIDE (edata, .)
+                0x000114f4                __bss_start = .
+                0x000114f4                __bss_start__ = .
+
+.bss            0x000114f4        0x4
+ *(.dynbss)
+ .dynbss        0x00000000        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x000114f4        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crt1.o
+ .bss           0x000114f4        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+ .bss           0x000114f4        0x1 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtbegin.o
+ .bss           0x000114f5        0x0 bin/release/obj/main.ov5T
+ .bss           0x000114f5        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/./libc_nonshared.a(elf-init.oS)
+ .bss           0x000114f5        0x0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_release(BUFQue.o)
+ .bss           0x000114f5        0x0 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_release(Mailbox.o)
+ .bss           0x000114f5        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtend.o
+ .bss           0x000114f5        0x0 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crtn.o
+ *(COMMON)
+                0x000114f8                . = ALIGN ((. != 0x0)?0x4:0x1)
+ *fill*         0x000114f5        0x3 00
+                0x000114f8                _bss_end__ = .
+                0x000114f8                __bss_end__ = .
+                0x000114f8                . = ALIGN (0x4)
+                0x000114f8                . = ALIGN (0x4)
+                0x000114f8                __end__ = .
+                0x000114f8                _end = .
+                0x000114f8                PROVIDE (end, .)
+                0x000114f8                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0xa2
+ *(.comment)
+ .comment       0x00000000       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crt1.o
+ .comment       0x00000012       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+ .comment       0x00000024       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtbegin.o
+ .comment       0x00000036       0x12 bin/release/obj/main.ov5T
+ .comment       0x00000048       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/./libc_nonshared.a(elf-init.oS)
+ .comment       0x0000005a       0x12 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_release(BUFQue.o)
+ .comment       0x0000006c       0x12 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_release(Mailbox.o)
+ .comment       0x0000007e       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtend.o
+ .comment       0x00000090       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crtn.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0x58
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x30 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+ .debug_aranges
+                0x00000030       0x28 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crtn.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000      0x1ae
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000       0xd7 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+ .debug_info    0x000000d7       0xd7 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crtn.o
+
+.debug_abbrev   0x00000000       0x24
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+ .debug_abbrev  0x00000012       0x12 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crtn.o
+
+.debug_line     0x00000000      0x167
+ *(.debug_line)
+ .debug_line    0x00000000       0xbf /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+ .debug_line    0x000000bf       0xa8 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crtn.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000       0x48
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x28 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+ .debug_ranges  0x00000028       0x20 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crtn.o
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+OUTPUT(bin/release/RS485 elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x29
+ .ARM.attributes
+                0x00000000       0x27 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crt1.o
+ .ARM.attributes
+                0x00000027       0x29 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crti.o
+ .ARM.attributes
+                0x00000050       0x2e /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtbegin.o
+ .ARM.attributes
+                0x0000007e       0x28 bin/release/obj/main.ov5T
+ .ARM.attributes
+                0x000000a6       0x29 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/./libc_nonshared.a(elf-init.oS)
+ .ARM.attributes
+                0x000000cf       0x28 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_release(BUFQue.o)
+ .ARM.attributes
+                0x000000f7       0x28 /mnt/hgfs/OMAPL138/UnderWater/BurchFw/osa/lib/BurchOSA.a_release(Mailbox.o)
+ .ARM.attributes
+                0x0000011f       0x2c /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../lib/gcc/arm-arago-linux-gnueabi/4.3.3/crtend.o
+ .ARM.attributes
+                0x0000014b       0x29 /opt/OMAPL138/MCSDK_1_01_00_02/linux-devkit/bin/../arm-arago-linux-gnueabi/usr/lib/crtn.o

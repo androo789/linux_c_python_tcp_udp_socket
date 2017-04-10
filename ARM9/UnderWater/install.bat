@@ -1,0 +1,1 @@
+copy E:\01.UnderWater\OMAPL138\UnderWater\ARM9\UnderWater\bin\release\UdWater E:\01.UnderWater\OMAPL138\UnderWater\TFTP
